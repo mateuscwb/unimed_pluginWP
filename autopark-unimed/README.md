@@ -71,7 +71,7 @@ abgsoft-autopark-unimed/
 ## Configuração da API
 
 O plugin utiliza um token fixo para autenticação com a API do AutoPark:
-- Token: "AP6nkLLm16BcJNifgpwjMZQbWqZ9RelptlwYZiAbtjOJ1AfAFFKfeu9WlQIv"
+- Token: Configurado internamente
 - URL da API: "https://sys.autopark.com.br/api/v1/vouchers"
 - ID de promoção: 1 (definido como valor fixo no código)
 
