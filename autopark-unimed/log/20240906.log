@@ -1,0 +1,114 @@
+[06/09/2024 12:30:40] Verificando a solicitação...
+[06/09/2024 12:30:40] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "Claudney Menezes Vieira"
+  ["cpf"]=>
+  string(11) "62175912604"
+  ["email"]=>
+  string(19) "claudney@mrp.com.br"
+  ["placa"]=>
+  string(7) "OLS2G32"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[06/09/2024 12:31:26] Verificando a solicitação...
+[06/09/2024 12:31:26] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "Claudney Menezes Vieira"
+  ["cpf"]=>
+  string(11) "62175912604"
+  ["email"]=>
+  string(19) "claudney@mrp.com.br"
+  ["placa"]=>
+  string(7) "OLS2G32"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+
+[06/09/2024 12:50:18] Verificando a solicitação...
+[06/09/2024 10:03:42] Verificando a solicitação...
+[06/09/2024 11:26:22] Verificando a solicitação...
+[06/09/2024 11:52:47] Verificando a solicitação...
+[06/09/2024 11:52:47] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(33) "CARLOS FERNANDO DOMINGOS DE ASSIS"
+  ["cpf"]=>
+  string(11) "91287030653"
+  ["email"]=>
+  string(26) "carlos.assis70@hotmail.com"
+  ["placa"]=>
+  string(7) "QOK7014"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[06/09/2024 11:54:26] Verificando a solicitação...
+[06/09/2024 02:35:27] Verificando a solicitação...
+[06/09/2024 02:35:27] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(22) "MILTON FLAVIO DA SILVA"
+  ["cpf"]=>
+  string(11) "15549852691"
+  ["email"]=>
+  string(26) "miltonletro17@yahoo.com.br"
+  ["placa"]=>
+  string(7) "RJJ2C83"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[06/09/2024 05:57:53] Verificando a solicitação...
+[06/09/2024 06:41:54] Verificando a solicitação...
+[06/09/2024 06:46:26] Verificando a solicitação...
+[06/09/2024 06:46:26] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(22) "LUCAS ALVES DOS SANTOS"
+  ["cpf"]=>
+  string(11) "13465420667"
+  ["email"]=>
+  string(32) "lucascorretorimoveisbh@gmail.com"
+  ["placa"]=>
+  string(7) "PXW8B48"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[06/09/2024 10:08:12] Verificando a solicitação...
+[06/09/2024 10:08:12] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(11) "Bruno Piere"
+  ["cpf"]=>
+  string(14) "078.585.556-42"
+  ["email"]=>
+  string(22) "brunopiere87@gmail.com"
+  ["placa"]=>
+  string(7) "Gxz2713"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+

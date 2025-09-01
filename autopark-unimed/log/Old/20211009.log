@@ -1,0 +1,1362 @@
+[09/10/2021 05:41:20] Verificando a solicitação...
+[09/10/2021 01:48:12] Verificando a solicitação...
+[09/10/2021 01:48:12] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 01:48:12] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 01:49:44] Verificando a solicitação...
+[09/10/2021 01:49:44] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 01:49:44] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 01:55:05] Verificando a solicitação...
+[09/10/2021 01:55:05] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 01:55:05] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 01:55:06] Verificando a solicitação...
+[09/10/2021 01:55:06] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 01:55:06] Verificando a solicitação...
+[09/10/2021 01:55:06] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 01:55:06] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 01:55:06] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 01:55:06] Verificando a solicitação...
+[09/10/2021 01:55:06] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 01:55:06] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 01:55:39] Verificando a solicitação...
+[09/10/2021 01:55:39] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 01:55:39] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:00:08] Verificando a solicitação...
+[09/10/2021 02:00:08] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:00:08] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:00:09] Verificando a solicitação...
+[09/10/2021 02:00:09] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:00:09] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:00:21] Verificando a solicitação...
+[09/10/2021 02:00:21] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:00:21] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:00:29] Verificando a solicitação...
+[09/10/2021 02:00:29] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:00:29] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:00:37] Verificando a solicitação...
+[09/10/2021 02:00:37] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:00:37] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:01:04] Verificando a solicitação...
+[09/10/2021 02:01:04] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:01:04] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:01:06] Verificando a solicitação...
+[09/10/2021 02:01:06] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:01:06] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:01:06] Verificando a solicitação...
+[09/10/2021 02:01:06] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:01:06] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:01:56] Verificando a solicitação...
+[09/10/2021 02:01:56] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:01:56] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:01:59] Verificando a solicitação...
+[09/10/2021 02:01:59] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:01:59] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:01:59] Verificando a solicitação...
+[09/10/2021 02:01:59] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:01:59] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:02:00] Verificando a solicitação...
+[09/10/2021 02:02:00] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:02:00] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:02:00] Verificando a solicitação...
+[09/10/2021 02:02:00] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:02:00] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:02:01] Verificando a solicitação...
+[09/10/2021 02:02:01] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:02:01] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:02:02] Verificando a solicitação...
+[09/10/2021 02:02:02] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:02:02] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:02:04] Verificando a solicitação...
+[09/10/2021 02:02:04] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:02:04] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:02:05] Verificando a solicitação...
+[09/10/2021 02:02:05] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:02:05] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:02:05] Verificando a solicitação...
+[09/10/2021 02:02:05] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:02:05] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:02:06] Verificando a solicitação...
+[09/10/2021 02:02:06] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:02:06] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:02:07] Verificando a solicitação...
+[09/10/2021 02:02:07] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:02:07] Verificando a solicitação...
+[09/10/2021 02:02:07] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:02:07] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:02:07] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:02:07] Verificando a solicitação...
+[09/10/2021 02:02:07] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:02:07] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:02:37] Verificando a solicitação...
+[09/10/2021 02:02:37] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:02:37] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:02:39] Verificando a solicitação...
+[09/10/2021 02:02:39] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:02:39] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:02:41] Verificando a solicitação...
+[09/10/2021 02:02:41] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:02:41] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:02:41] Verificando a solicitação...
+[09/10/2021 02:02:41] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:02:41] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 02:02:41] Verificando a solicitação...
+[09/10/2021 02:02:41] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(12) "Sabrina Mara"
+  ["cpf"]=>
+  string(11) "10432032657"
+  ["email"]=>
+  string(25) "mundocosmeticos@gmail.com"
+  ["placa"]=>
+  string(7) "Npz0011"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[09/10/2021 02:02:41] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[09/10/2021 09:50:47] Verificando a solicitação...

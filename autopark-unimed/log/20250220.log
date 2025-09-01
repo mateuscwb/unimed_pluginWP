@@ -1,0 +1,291 @@
+[20/02/2025 08:37:29] Verificando a solicitação...
+[20/02/2025 08:37:29] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(6) "Renata"
+  ["cpf"]=>
+  string(11) "03758526620"
+  ["email"]=>
+  string(17) "rfpro21@gmail.com"
+  ["placa"]=>
+  string(7) "HKT0342"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "4"
+  }
+}
+
+[20/02/2025 09:12:22] Verificando a solicitação...
+[20/02/2025 09:12:22] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(21) "LUCAS FIALHO DE SOUZA"
+  ["cpf"]=>
+  string(11) "09256690675"
+  ["email"]=>
+  string(36) "lucasfialho.representacoes@gmail.com"
+  ["placa"]=>
+  string(7) "Tcy4b58"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[20/02/2025 10:41:52] Verificando a solicitação...
+[20/02/2025 10:41:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "JAQUELINE FERNANDES DOS SANTOS"
+  ["cpf"]=>
+  string(14) "067.757.706-00"
+  ["email"]=>
+  string(21) "jackfds2010@gmail.com"
+  ["placa"]=>
+  string(7) "HOD1676"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[20/02/2025 11:36:37] Verificando a solicitação...
+[20/02/2025 11:36:37] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "Samuel Damião dos anjos "
+  ["cpf"]=>
+  string(14) "078.038.566-75"
+  ["email"]=>
+  string(27) "samuel.megafort@hotmail.com"
+  ["placa"]=>
+  string(7) "QEP7C51"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[20/02/2025 12:06:01] Verificando a solicitação...
+[20/02/2025 01:37:07] Verificando a solicitação...
+[20/02/2025 01:37:07] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(5) "Aline"
+  ["cpf"]=>
+  string(11) "05337016601"
+  ["email"]=>
+  string(24) "alinectmenezes@gmail.com"
+  ["placa"]=>
+  string(7) "TDB8G41"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[20/02/2025 04:09:03] Verificando a solicitação...
+[20/02/2025 04:09:03] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(15) "Rafael Damião "
+  ["cpf"]=>
+  string(15) "104.809.996-27 "
+  ["email"]=>
+  string(29) "rafael.rltecnologia@gmail.com"
+  ["placa"]=>
+  string(8) "Enw9698 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+
+[20/02/2025 04:31:58] Verificando a solicitação...
+[20/02/2025 04:31:58] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(16) "Michelle teleste"
+  ["cpf"]=>
+  string(14) "032.428.476-44"
+  ["email"]=>
+  string(19) "miteleste@gmail.com"
+  ["placa"]=>
+  string(7) "Pyg4127"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[20/02/2025 05:50:27] Verificando a solicitação...
+[20/02/2025 06:01:20] Verificando a solicitação...
+[20/02/2025 08:03:09] Verificando a solicitação...
+[20/02/2025 08:03:09] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(28) "Thatiane Fernandes da Silva "
+  ["cpf"]=>
+  string(11) "14224456664"
+  ["email"]=>
+  string(22) "thatianefs@outlook.com"
+  ["placa"]=>
+  string(7) "Hak6b57"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[20/02/2025 08:15:54] Verificando a solicitação...
+[20/02/2025 08:15:54] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(7) "Marina "
+  ["cpf"]=>
+  string(11) "14009905646"
+  ["email"]=>
+  string(25) "marina_rocha5@outlook.com"
+  ["placa"]=>
+  string(7) "QQH2186"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[20/02/2025 09:13:08] Verificando a solicitação...
+[20/02/2025 09:13:08] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(22) "MILTON FLAVIO DA SILVA"
+  ["cpf"]=>
+  string(14) "155.498.526-91"
+  ["email"]=>
+  string(26) "miltonletro17@yahoo.com.br"
+  ["placa"]=>
+  string(7) "RJJ2C83"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "4"
+  }
+}
+
+[20/02/2025 09:23:51] Verificando a solicitação...
+[20/02/2025 09:23:51] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "AUTMAR JOSE DE OLIVEIRA"
+  ["cpf"]=>
+  string(14) "119.108.106-06"
+  ["email"]=>
+  string(30) "maladiretabh.autmar@uol.com.br"
+  ["placa"]=>
+  string(7) "PWK2271"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[20/02/2025 09:56:42] Verificando a solicitação...
+[20/02/2025 09:56:42] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(27) "VIRGILIO DE ALMEIDA BARRETO"
+  ["cpf"]=>
+  string(14) "570.656.246-68"
+  ["email"]=>
+  string(30) "virgiliobarretoadv@hotmail.com"
+  ["placa"]=>
+  string(7) "Qqe1603"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[20/02/2025 10:13:48] Verificando a solicitação...
+[20/02/2025 10:13:48] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(27) "Paula Helena Alves Siqueira"
+  ["cpf"]=>
+  string(14) "132.590.016-89"
+  ["email"]=>
+  string(25) "paulahelena95@hotmail.com"
+  ["placa"]=>
+  string(7) "QPY4074"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[20/02/2025 10:17:57] Verificando a solicitação...
+[20/02/2025 10:17:57] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "Jucara de queiroz fonseca"
+  ["cpf"]=>
+  string(11) "41984846604"
+  ["email"]=>
+  string(28) "jujuqueirozfonseca@gmail.com"
+  ["placa"]=>
+  string(7) "Owj5094"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[20/02/2025 10:22:36] Verificando a solicitação...
+[20/02/2025 10:22:36] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "Jucara de queiroz fonseca"
+  ["cpf"]=>
+  string(11) "41984846604"
+  ["email"]=>
+  string(28) "jujuqueirozfonseca@gmail.com"
+  ["placa"]=>
+  string(7) "Owj5094"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[20/02/2025 11:13:48] Verificando a solicitação...
+[20/02/2025 11:13:48] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(14) "Filipe Soares "
+  ["cpf"]=>
+  string(11) "13781943658"
+  ["email"]=>
+  string(20) "filipe13dh@yahoo.com"
+  ["placa"]=>
+  string(7) "AKH5551"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+

@@ -1,0 +1,651 @@
+[17/05/2024 12:02:18] Verificando a solicitação...
+[17/05/2024 12:02:18] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "Desiree Juliana Damasio"
+  ["cpf"]=>
+  string(11) "05202409605"
+  ["email"]=>
+  string(25) "desireejdamasio@gmail.com"
+  ["placa"]=>
+  string(7) "NMG6D17"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[17/05/2024 12:02:18] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 12:03:45] Verificando a solicitação...
+[17/05/2024 10:32:19] Verificando a solicitação...
+[17/05/2024 10:32:19] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(20) "Gleice Eliza de Lima"
+  ["cpf"]=>
+  string(14) "075.095.936-38"
+  ["email"]=>
+  string(21) "gleeliza@yahoo.com.br"
+  ["placa"]=>
+  string(7) "Etw9745"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 10:32:19] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 10:33:38] Verificando a solicitação...
+[17/05/2024 10:33:38] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(20) "Gleice Eliza de Lima"
+  ["cpf"]=>
+  string(14) "075.095.936-38"
+  ["email"]=>
+  string(21) "gleeliza@yahoo.com.br"
+  ["placa"]=>
+  string(7) "Etw9745"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 10:33:38] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 11:21:50] Verificando a solicitação...
+[17/05/2024 11:43:37] Verificando a solicitação...
+[17/05/2024 11:43:37] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(31) "Márcia Paula da Silva Ferreira"
+  ["cpf"]=>
+  string(14) "676.979.846-87"
+  ["email"]=>
+  string(29) "ferreira.marcia0107@gmail.com"
+  ["placa"]=>
+  string(7) "QUS6859"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[17/05/2024 11:43:37] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 12:15:16] Verificando a solicitação...
+[17/05/2024 12:15:16] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "Silvani de Jesus Braz Moreira "
+  ["cpf"]=>
+  string(11) "63865475604"
+  ["email"]=>
+  string(25) "silvanithales@hotmail.com"
+  ["placa"]=>
+  string(7) "OPI2073"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 12:15:16] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 12:16:11] Verificando a solicitação...
+[17/05/2024 12:16:11] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "Silvani de Jesus Braz Moreira "
+  ["cpf"]=>
+  string(14) "638.654.756-04"
+  ["email"]=>
+  string(25) "silvanithales@hotmail.com"
+  ["placa"]=>
+  string(7) "OPI2073"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 12:16:11] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 12:18:25] Verificando a solicitação...
+[17/05/2024 12:18:25] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "Silvani de Jesus Braz Moreira "
+  ["cpf"]=>
+  string(14) "638.654.756-04"
+  ["email"]=>
+  string(25) "silvanithales@hotmail.com"
+  ["placa"]=>
+  string(7) "OPI2073"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 12:18:25] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 12:20:26] Verificando a solicitação...
+[17/05/2024 12:20:26] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Silvani de Jesus Braz Moreira"
+  ["cpf"]=>
+  string(14) "638.654.756-04"
+  ["email"]=>
+  string(25) "silvanithales@hotmail.com"
+  ["placa"]=>
+  string(7) "OPI2073"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 12:20:26] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 12:23:12] Verificando a solicitação...
+[17/05/2024 12:23:12] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Silvani de Jesus Braz Moreira"
+  ["cpf"]=>
+  string(11) "63865475604"
+  ["email"]=>
+  string(25) "silvanithales@hotmail.com"
+  ["placa"]=>
+  string(7) "OPI2073"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 12:23:12] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 12:42:24] Verificando a solicitação...
+[17/05/2024 12:42:24] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Silvani de Jesus Braz Moreira"
+  ["cpf"]=>
+  string(14) "638.654.756-04"
+  ["email"]=>
+  string(25) "silvanithales@hotmail.com"
+  ["placa"]=>
+  string(7) "OPI2073"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 12:42:24] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 12:43:41] Verificando a solicitação...
+[17/05/2024 12:43:41] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Silvani de Jesus Braz Moreira"
+  ["cpf"]=>
+  string(14) "638.654.756-04"
+  ["email"]=>
+  string(25) "silvanithales@hotmail.com"
+  ["placa"]=>
+  string(7) "OPI2073"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 12:43:41] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 01:21:52] Verificando a solicitação...
+[17/05/2024 01:21:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(22) "Meire de Souza Brescia"
+  ["cpf"]=>
+  string(14) "312.057.556-91"
+  ["email"]=>
+  string(25) "meirebrescia@yahoo.com.br"
+  ["placa"]=>
+  string(7) "HHX2270"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 01:21:52] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 01:22:37] Verificando a solicitação...
+[17/05/2024 01:22:37] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Silvani de Jesus Braz Moreira"
+  ["cpf"]=>
+  string(14) "638.654.756-04"
+  ["email"]=>
+  string(25) "silvanithales@hotmail.com"
+  ["placa"]=>
+  string(7) "OPI2073"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 01:22:37] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 01:23:21] Verificando a solicitação...
+[17/05/2024 01:23:21] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Silvani de Jesus Braz Moreira"
+  ["cpf"]=>
+  string(14) "638.654.756-04"
+  ["email"]=>
+  string(24) "silmonthales@hotmail.com"
+  ["placa"]=>
+  string(7) "OPI2073"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 01:23:21] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 01:25:05] Verificando a solicitação...
+[17/05/2024 01:25:05] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Silvani de Jesus Braz Moreira"
+  ["cpf"]=>
+  string(14) "638.654.756-04"
+  ["email"]=>
+  string(25) "silvanithales@hotmail.com"
+  ["placa"]=>
+  string(7) "OPI2073"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 01:25:05] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 01:29:28] Verificando a solicitação...
+[17/05/2024 01:29:28] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(22) "Meire de Souza Brescia"
+  ["cpf"]=>
+  string(14) "312.057.556-91"
+  ["email"]=>
+  string(25) "meirebrescia@yahoo.com.br"
+  ["placa"]=>
+  string(7) "HHX2270"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 01:29:28] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 01:56:29] Verificando a solicitação...
+[17/05/2024 01:56:29] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(11) "Marlon Lima"
+  ["cpf"]=>
+  string(11) "03212147652"
+  ["email"]=>
+  string(24) "marlonarlen@yahoo.com.br"
+  ["placa"]=>
+  string(8) "OQM3I46 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "4"
+  }
+}
+
+[17/05/2024 01:56:29] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 02:00:03] Verificando a solicitação...
+[17/05/2024 02:00:03] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(12) "Marlon Lima "
+  ["cpf"]=>
+  string(11) "03212147652"
+  ["email"]=>
+  string(24) "marlonarlen@yahoo.com.br"
+  ["placa"]=>
+  string(8) "OQM3I46 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "4"
+  }
+}
+
+[17/05/2024 02:00:03] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 02:03:54] Verificando a solicitação...
+[17/05/2024 02:03:54] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Silvani de Jesus Braz Moreira"
+  ["cpf"]=>
+  string(14) "638.654.756-04"
+  ["email"]=>
+  string(25) "silvanithales@hotmail.com"
+  ["placa"]=>
+  string(7) "OPI2073"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 02:03:54] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 02:36:25] Verificando a solicitação...
+[17/05/2024 02:36:25] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "William de Freitas Moreira"
+  ["cpf"]=>
+  string(14) "791.793.476-49"
+  ["email"]=>
+  string(18) "morwil22@gmail.com"
+  ["placa"]=>
+  string(7) "QPT9592"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 02:36:25] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 02:39:25] Verificando a solicitação...
+[17/05/2024 02:39:25] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "William de Freitas Moreira"
+  ["cpf"]=>
+  string(14) "791.793.476-49"
+  ["email"]=>
+  string(18) "morwil22@gmail.com"
+  ["placa"]=>
+  string(7) "QPT9592"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 02:39:25] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 02:46:03] Verificando a solicitação...
+[17/05/2024 02:46:03] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "William de Freitas Moreira"
+  ["cpf"]=>
+  string(11) "79179347649"
+  ["email"]=>
+  string(18) "morwil22@gmail.com"
+  ["placa"]=>
+  string(7) "QPT9592"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 02:46:03] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 02:50:23] Verificando a solicitação...
+[17/05/2024 02:50:23] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(40) "Lúcia de Fátima Machado Santos Moreira"
+  ["cpf"]=>
+  string(11) "60747650659"
+  ["email"]=>
+  string(18) "luftmac3@GMAIL.COM"
+  ["placa"]=>
+  string(7) "QPT9592"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 02:50:23] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 03:07:30] Verificando a solicitação...
+[17/05/2024 03:18:33] Verificando a solicitação...
+[17/05/2024 03:18:33] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Silvani de Jesus Braz Moreira"
+  ["cpf"]=>
+  string(14) "638.654.756-04"
+  ["email"]=>
+  string(25) "silvanithales@hotmail.com"
+  ["placa"]=>
+  string(7) "OPI2073"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 03:18:33] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 03:40:54] Verificando a solicitação...
+[17/05/2024 03:40:54] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Silvani de Jesus Braz Moreira"
+  ["cpf"]=>
+  string(14) "638.654.756-04"
+  ["email"]=>
+  string(25) "silvanithales@hotmail.com"
+  ["placa"]=>
+  string(7) "OPI2073"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/05/2024 03:40:54] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 03:41:21] Verificando a solicitação...
+[17/05/2024 03:41:21] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "ROBSON MARQUES DE OLIVEIRA"
+  ["cpf"]=>
+  string(14) "014.582.156-01"
+  ["email"]=>
+  string(25) "robsonmarquesbh@gmail.com"
+  ["placa"]=>
+  string(7) "QTO8081"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[17/05/2024 03:41:21] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 04:52:17] Verificando a solicitação...
+[17/05/2024 04:52:17] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(9) "Ana Abreu"
+  ["cpf"]=>
+  string(11) "10217074650"
+  ["email"]=>
+  string(21) "accabre.adv@gmail.com"
+  ["placa"]=>
+  string(7) "PXB8C03"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[17/05/2024 04:52:17] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 04:53:24] Verificando a solicitação...
+[17/05/2024 04:53:24] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(9) "Ana Abreu"
+  ["cpf"]=>
+  string(11) "10217074650"
+  ["email"]=>
+  string(22) "accabreu.adv@gmail.com"
+  ["placa"]=>
+  string(7) "PXB8C03"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[17/05/2024 04:53:24] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 05:01:00] Verificando a solicitação...
+[17/05/2024 05:01:00] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(21) "diego fernandes dutra"
+  ["cpf"]=>
+  string(11) "07350909632"
+  ["email"]=>
+  string(21) "diegofdutra@gmail.com"
+  ["placa"]=>
+  string(7) "pxb8c03"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[17/05/2024 05:01:00] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 05:02:18] Verificando a solicitação...
+[17/05/2024 05:02:18] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(21) "diego fernandes dutra"
+  ["cpf"]=>
+  string(14) "073.509.096-32"
+  ["email"]=>
+  string(21) "diegofdutra@gmail.com"
+  ["placa"]=>
+  string(7) "pxb8c03"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[17/05/2024 05:02:18] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+
+[17/05/2024 07:44:23] Verificando a solicitação...
+[17/05/2024 07:44:23] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(13) "Mateus Correa"
+  ["cpf"]=>
+  string(14) "848.517.910-20"
+  ["email"]=>
+  string(20) "workcorrea@gmail.com"
+  ["placa"]=>
+  string(8) "ABC-1020"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "1"
+  }
+}
+

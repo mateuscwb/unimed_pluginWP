@@ -1,0 +1,1055 @@
+[15/05/2024 12:01:41] Verificando a solicitação...
+[15/05/2024 12:01:41] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(33) "Júlio César da Silva Rodrigues "
+  ["cpf"]=>
+  string(15) "044.120.026-59 "
+  ["email"]=>
+  string(29) "Juliorodrigues.jc38@gmail.com"
+  ["placa"]=>
+  string(7) "QOD3323"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 12:01:51] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10003 ms: Timeout was reached"
+
+[15/05/2024 02:25:16] Verificando a solicitação...
+[15/05/2024 02:25:16] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(18) "Jean Andrade Lopes"
+  ["cpf"]=>
+  string(14) "067.646.560-40"
+  ["email"]=>
+  string(23) "jeaniusnatura@gmail.com"
+  ["placa"]=>
+  string(7) "PWA5916"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[15/05/2024 02:25:26] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 09:44:34] Verificando a solicitação...
+[15/05/2024 09:44:34] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "Daniel Ribeiro da Silva"
+  ["cpf"]=>
+  string(14) "009.484.256-60"
+  ["email"]=>
+  string(24) "nielsanprata@hotmail.com"
+  ["placa"]=>
+  string(7) "HEM9833"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[15/05/2024 09:44:44] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 09:49:04] Verificando a solicitação...
+[15/05/2024 09:49:04] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "Daniel Ribeiro da Silva"
+  ["cpf"]=>
+  string(14) "009.484.256-60"
+  ["email"]=>
+  string(24) "nielsanprata@hotmail.com"
+  ["placa"]=>
+  string(7) "HEM9833"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[15/05/2024 09:49:14] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 09:56:22] Verificando a solicitação...
+[15/05/2024 09:56:22] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(15) "Rafael Damião "
+  ["cpf"]=>
+  string(15) "104.809.996-27 "
+  ["email"]=>
+  string(29) "rafael.rltecnologia@gmail.com"
+  ["placa"]=>
+  string(8) "Hnh8958 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[15/05/2024 09:56:32] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 09:59:36] Verificando a solicitação...
+[15/05/2024 09:59:36] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "Jerusa Simões de Andrada"
+  ["cpf"]=>
+  string(11) "97097004649"
+  ["email"]=>
+  string(24) "jerusasimoes@outlook.com"
+  ["placa"]=>
+  string(7) "RTZ9B83"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[15/05/2024 09:59:46] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 10:11:37] Verificando a solicitação...
+[15/05/2024 10:11:37] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(33) "Ana Paula Rodrigues da Cruz Silva"
+  ["cpf"]=>
+  string(20) "052 . 566 . 326 - 63"
+  ["email"]=>
+  string(21) "anaped01@yahoo.com.br"
+  ["placa"]=>
+  string(7) "SHD2I40"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 10:11:47] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10003 ms: Timeout was reached"
+
+[15/05/2024 10:14:27] Verificando a solicitação...
+[15/05/2024 10:14:27] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(33) "Ana Paula Rodrigues da Cruz Silva"
+  ["cpf"]=>
+  string(20) "052 . 566 . 326 - 63"
+  ["email"]=>
+  string(21) "anaped01@yahoo.com.br"
+  ["placa"]=>
+  string(7) "SHD2I40"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 10:14:37] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 10:29:24] Verificando a solicitação...
+[15/05/2024 10:29:24] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(33) "Júlio César da Silva Rodrigues "
+  ["cpf"]=>
+  string(15) "044.120.026-59 "
+  ["email"]=>
+  string(29) "Juliorodrigues.jc38@gmail.com"
+  ["placa"]=>
+  string(7) "QOD3323"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 10:29:34] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10003 ms: Timeout was reached"
+
+[15/05/2024 10:46:08] Verificando a solicitação...
+[15/05/2024 10:46:08] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(31) "Laura Souza Machado de Medeiros"
+  ["cpf"]=>
+  string(14) "044.235.366-92"
+  ["email"]=>
+  string(21) "laura.mac14@gmail.com"
+  ["placa"]=>
+  string(7) "Hoi9788"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 10:46:18] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10003 ms: Timeout was reached"
+
+[15/05/2024 11:01:54] Verificando a solicitação...
+[15/05/2024 11:01:54] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "Desiree Juliana Damásio "
+  ["cpf"]=>
+  string(11) "05202409605"
+  ["email"]=>
+  string(25) "desireejdamasio@gmail.com"
+  ["placa"]=>
+  string(7) "nmg6d17"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[15/05/2024 11:02:04] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 11:07:51] Verificando a solicitação...
+[15/05/2024 11:07:51] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "Desiree Juliana Damásio "
+  ["cpf"]=>
+  string(11) "05202409605"
+  ["email"]=>
+  string(25) "desireejdamasio@gmail.com"
+  ["placa"]=>
+  string(7) "nmg6D17"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[15/05/2024 11:08:01] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10003 ms: Timeout was reached"
+
+[15/05/2024 11:11:22] Verificando a solicitação...
+[15/05/2024 11:11:22] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(16) "Desiree Damasio "
+  ["cpf"]=>
+  string(11) "05202409605"
+  ["email"]=>
+  string(25) "desireejdamasio@gmail.com"
+  ["placa"]=>
+  string(7) "NMG6D17"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[15/05/2024 11:11:32] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10003 ms: Timeout was reached"
+
+[15/05/2024 11:30:24] Verificando a solicitação...
+[15/05/2024 11:30:24] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "FRANCISCO LEANDRO ARAUJO DIAS"
+  ["cpf"]=>
+  string(11) "98932748691"
+  ["email"]=>
+  string(31) "ARATEXARAUJOTEXTIL@YAHOO.COM.BR"
+  ["placa"]=>
+  string(7) "PZO4746"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 11:30:34] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10003 ms: Timeout was reached"
+
+[15/05/2024 11:41:33] Verificando a solicitação...
+[15/05/2024 11:41:33] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(31) "Laura Souza Machado de Medeiros"
+  ["cpf"]=>
+  string(14) "044.235.366-92"
+  ["email"]=>
+  string(21) "laura.mac14@gmail.com"
+  ["placa"]=>
+  string(7) "Hoi9788"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 11:41:43] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10003 ms: Timeout was reached"
+
+[15/05/2024 12:16:01] Verificando a solicitação...
+[15/05/2024 12:16:01] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(34) "Marcus Vinícius Ferreira Cardoso "
+  ["cpf"]=>
+  string(11) "04404659660"
+  ["email"]=>
+  string(22) "marcusnormal@gmail.com"
+  ["placa"]=>
+  string(7) "Rnt1b17"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[15/05/2024 12:16:11] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10003 ms: Timeout was reached"
+
+[15/05/2024 12:16:18] Verificando a solicitação...
+[15/05/2024 12:16:18] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "valquiria alves de araujo"
+  ["cpf"]=>
+  string(11) "93683316691"
+  ["email"]=>
+  string(31) "valquiria.araujo@edu.pbh.gov.br"
+  ["placa"]=>
+  string(7) "HLN8E57"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[15/05/2024 12:16:28] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 12:20:49] Verificando a solicitação...
+[15/05/2024 12:20:49] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Denise Ferreira do Nascimento"
+  ["cpf"]=>
+  string(11) "67279783600"
+  ["email"]=>
+  string(27) "denisefnascimento@yahoo.com"
+  ["placa"]=>
+  string(7) "JEM2358"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 12:20:59] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 12:24:55] Verificando a solicitação...
+[15/05/2024 12:24:55] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Denise Ferreira do Nascimento"
+  ["cpf"]=>
+  string(11) "67279783600"
+  ["email"]=>
+  string(27) "denisefnascimento@yahoo.com"
+  ["placa"]=>
+  string(7) "JEM2358"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 12:25:05] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10003 ms: Timeout was reached"
+
+[15/05/2024 12:31:18] Verificando a solicitação...
+[15/05/2024 12:38:30] Verificando a solicitação...
+[15/05/2024 12:38:30] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(15) "Marcos Antonio "
+  ["cpf"]=>
+  string(11) "26771210855"
+  ["email"]=>
+  string(29) "marcos.santos@autopark.com.br"
+  ["placa"]=>
+  string(8) "AKJ-1707"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "6"
+  }
+}
+
+[15/05/2024 12:38:40] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 12:45:30] Verificando a solicitação...
+[15/05/2024 12:55:48] Verificando a solicitação...
+[15/05/2024 12:55:48] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(21) "Junio Francisco alves"
+  ["cpf"]=>
+  string(14) "116.098.596-00"
+  ["email"]=>
+  string(21) "junio-bad@hotmail.com"
+  ["placa"]=>
+  string(7) "Hcu0629"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 12:55:58] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 01:16:19] Verificando a solicitação...
+[15/05/2024 01:16:19] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(27) "MA4CIA ETEROVIK GONÇALVES "
+  ["cpf"]=>
+  string(15) "585.928.816-68 "
+  ["email"]=>
+  string(19) "meterovik@yahoo.com"
+  ["placa"]=>
+  string(7) "QOV5391"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[15/05/2024 01:16:29] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10003 ms: Timeout was reached"
+
+[15/05/2024 01:31:45] Verificando a solicitação...
+[15/05/2024 01:31:45] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(15) "Marcos Antonio "
+  ["cpf"]=>
+  string(11) "26771210855"
+  ["email"]=>
+  string(29) "marcos.santos@autopark.com.br"
+  ["placa"]=>
+  string(8) "AKJ-1707"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "1"
+  }
+}
+
+[15/05/2024 01:31:55] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 01:33:33] Verificando a solicitação...
+[15/05/2024 01:33:33] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "Genyfer Luiza de Oliveira"
+  ["cpf"]=>
+  string(11) "08324040633"
+  ["email"]=>
+  string(21) "genyferl@yahoo.com.br"
+  ["placa"]=>
+  string(7) "OPQ6E99"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[15/05/2024 01:33:43] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 01:48:46] Verificando a solicitação...
+[15/05/2024 01:48:46] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Paulo Álvares Antunes Braga "
+  ["cpf"]=>
+  string(11) "11813393672"
+  ["email"]=>
+  string(19) "13alvares@gmail.com"
+  ["placa"]=>
+  string(7) "PWK9637"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 01:48:56] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10003 ms: Timeout was reached"
+
+[15/05/2024 01:57:33] Verificando a solicitação...
+[15/05/2024 02:50:55] Verificando a solicitação...
+[15/05/2024 02:50:55] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "Desiree Juliana Damasio"
+  ["cpf"]=>
+  string(11) "05202409605"
+  ["email"]=>
+  string(25) "desireejdamasio@gmail.com"
+  ["placa"]=>
+  string(7) "NMG6D17"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[15/05/2024 02:51:05] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 03:05:25] Verificando a solicitação...
+[15/05/2024 03:05:25] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(24) "Desiree Juliana Damasio "
+  ["cpf"]=>
+  string(11) "05202409605"
+  ["email"]=>
+  string(25) "desireejdamasio@gmail.com"
+  ["placa"]=>
+  string(7) "NMG6D17"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[15/05/2024 03:05:35] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10001 ms: Timeout was reached"
+
+[15/05/2024 03:11:35] Verificando a solicitação...
+[15/05/2024 03:11:35] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(20) "Ester Luiza Damasio "
+  ["cpf"]=>
+  string(11) "03781035638"
+  ["email"]=>
+  string(25) "desireejdamasio@gmail.com"
+  ["placa"]=>
+  string(7) "Hnp5454"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[15/05/2024 03:11:45] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 03:27:59] Verificando a solicitação...
+[15/05/2024 03:27:59] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(19) "Luiz Paulo Saraiva "
+  ["cpf"]=>
+  string(15) "013.146.116-82 "
+  ["email"]=>
+  string(24) "contato.luizps@gmail.com"
+  ["placa"]=>
+  string(7) "OLY4826"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 03:28:09] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 03:28:18] Verificando a solicitação...
+[15/05/2024 03:28:18] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(15) "GIZELLE LAZZARI"
+  ["cpf"]=>
+  string(11) "05965310609"
+  ["email"]=>
+  string(21) "gilazzari@hotmail.com"
+  ["placa"]=>
+  string(7) "QPB7202"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "4"
+  }
+}
+
+[15/05/2024 03:28:28] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 03:29:49] Verificando a solicitação...
+[15/05/2024 03:29:49] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(19) "Luiz Paulo Saraiva "
+  ["cpf"]=>
+  string(15) "013.146.116-82 "
+  ["email"]=>
+  string(24) "contato.luizps@gmail.com"
+  ["placa"]=>
+  string(7) "OLY4826"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 03:29:59] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 03:32:32] Verificando a solicitação...
+[15/05/2024 03:36:16] Verificando a solicitação...
+[15/05/2024 03:36:16] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(33) "Ana Paula Rodrigues da Cruz Silva"
+  ["cpf"]=>
+  string(20) "052 . 566 . 326 - 63"
+  ["email"]=>
+  string(21) "anaped01@yahoo.com.br"
+  ["placa"]=>
+  string(7) "SHD2I40"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 03:36:26] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 03:49:50] Verificando a solicitação...
+[15/05/2024 03:55:13] Verificando a solicitação...
+[15/05/2024 03:55:13] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "Elmo Leopoldo de Abreu Moreira"
+  ["cpf"]=>
+  string(14) "662.610.666-04"
+  ["email"]=>
+  string(23) "elmolamoreira@gmail.com"
+  ["placa"]=>
+  string(7) "RFV0H03"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[15/05/2024 03:55:23] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10001 ms: Timeout was reached"
+
+[15/05/2024 04:04:09] Verificando a solicitação...
+[15/05/2024 04:04:09] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "Elmo Leopoldo de Abreu Moreira"
+  ["cpf"]=>
+  string(14) "662.610.666-04"
+  ["email"]=>
+  string(23) "elmolamoreira@gmail.com"
+  ["placa"]=>
+  string(7) "RFV0H03"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[15/05/2024 04:04:19] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 05:09:36] Verificando a solicitação...
+[15/05/2024 05:09:36] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(18) "FERNANDA CAMISASCA"
+  ["cpf"]=>
+  string(14) "015.579.356-02"
+  ["email"]=>
+  string(19) "sralachey@gmail.com"
+  ["placa"]=>
+  string(7) "Owp1i21"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 05:09:46] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 05:30:38] Verificando a solicitação...
+[15/05/2024 05:30:38] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "Luciana Oliveira Azevedo "
+  ["cpf"]=>
+  string(11) "12102704637"
+  ["email"]=>
+  string(27) "lucianadazevedo24@gmail.com"
+  ["placa"]=>
+  string(7) "HMQ4F66"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[15/05/2024 05:30:48] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 05:33:42] Verificando a solicitação...
+[15/05/2024 05:33:42] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "Luciana Oliveira Azevedo "
+  ["cpf"]=>
+  string(11) "12102704637"
+  ["email"]=>
+  string(27) "lucianadazevedo24@gmail.com"
+  ["placa"]=>
+  string(7) "HMQ4F66"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[15/05/2024 05:33:52] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 05:59:07] Verificando a solicitação...
+[15/05/2024 05:59:07] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "Íris de Oliveira Silva Abreu "
+  ["cpf"]=>
+  string(11) "90134087615"
+  ["email"]=>
+  string(21) "iris-butt@hotmail.com"
+  ["placa"]=>
+  string(7) "PYQ0830"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "4"
+  }
+}
+
+[15/05/2024 05:59:17] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 06:12:39] Verificando a solicitação...
+[15/05/2024 06:12:39] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(34) "Antonio Feliciano Ferreira Júnior"
+  ["cpf"]=>
+  string(14) "249.548.966-49"
+  ["email"]=>
+  string(27) "aferreirajunior06@yahoo.com"
+  ["placa"]=>
+  string(7) "HEW7275"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "4"
+  }
+}
+
+[15/05/2024 06:12:49] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 06:40:51] Verificando a solicitação...
+[15/05/2024 06:40:51] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(34) "Antônio Feliciano Ferreira Junior"
+  ["cpf"]=>
+  string(14) "249.548.966-49"
+  ["email"]=>
+  string(27) "aferreirajunior06@yahoo.com"
+  ["placa"]=>
+  string(7) "HEW7275"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "4"
+  }
+}
+
+[15/05/2024 06:41:01] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 06:56:27] Verificando a solicitação...
+[15/05/2024 06:56:27] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(28) "Christiane correa de miranda"
+  ["cpf"]=>
+  string(11) "01493767666"
+  ["email"]=>
+  string(24) "dobscha2003@yahoo.com.br"
+  ["placa"]=>
+  string(7) "pzd3549"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 06:56:38] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10003 ms: Timeout was reached"
+
+[15/05/2024 06:59:03] Verificando a solicitação...
+[15/05/2024 06:59:03] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "anderson luiz da silva dobscha"
+  ["cpf"]=>
+  string(14) "024.562.686-79"
+  ["email"]=>
+  string(24) "dobscha2003@yahoo.com.br"
+  ["placa"]=>
+  string(7) "pzd3549"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 06:59:13] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 07:00:53] Verificando a solicitação...
+[15/05/2024 07:00:53] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(31) "Paulo Henrique Pereira de Moura"
+  ["cpf"]=>
+  string(14) "055.057.656-88"
+  ["email"]=>
+  string(20) "ph.pmoura@bol.com.br"
+  ["placa"]=>
+  string(8) "FLO 8339"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[15/05/2024 07:01:03] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 07:01:59] Verificando a solicitação...
+[15/05/2024 07:01:59] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(31) "Paulo Henrique Pereira de Moura"
+  ["cpf"]=>
+  string(14) "055.057.656-88"
+  ["email"]=>
+  string(20) "ph.pmoura@bol.com.br"
+  ["placa"]=>
+  string(8) "FLO 8339"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[15/05/2024 07:02:09] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 07:04:48] Verificando a solicitação...
+[15/05/2024 07:04:48] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "Desiree Juliana Damasio"
+  ["cpf"]=>
+  string(11) "05202409605"
+  ["email"]=>
+  string(25) "desireejdamasio@gmail.com"
+  ["placa"]=>
+  string(7) "NMG6D17"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[15/05/2024 07:04:58] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 07:53:57] Verificando a solicitação...
+[15/05/2024 07:53:57] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(17) "Jaqueline Batista"
+  ["cpf"]=>
+  string(14) "061.060.046-09"
+  ["email"]=>
+  string(25) "jaquebatista.ma@gmail.com"
+  ["placa"]=>
+  string(7) "PXQ8293"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 07:54:07] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 07:56:41] Verificando a solicitação...
+[15/05/2024 07:56:41] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(17) "Jaqueline Batista"
+  ["cpf"]=>
+  string(14) "061.060.046-09"
+  ["email"]=>
+  string(25) "jaquebatista.ma@gmail.com"
+  ["placa"]=>
+  string(7) "PXQ8293"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 07:56:45] Verificando a solicitação...
+[15/05/2024 07:56:45] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(17) "Jaqueline Batista"
+  ["cpf"]=>
+  string(14) "061.060.046-09"
+  ["email"]=>
+  string(25) "jaquebatista.ma@gmail.com"
+  ["placa"]=>
+  string(7) "PXQ8293"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 07:56:51] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 07:56:55] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 08:52:37] Verificando a solicitação...
+[15/05/2024 08:52:37] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(33) "Ana Paula Rodrigues da Cruz Silva"
+  ["cpf"]=>
+  string(20) "052 . 566 . 326 - 63"
+  ["email"]=>
+  string(21) "anaped01@yahoo.com.br"
+  ["placa"]=>
+  string(7) "SHD2I40"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 08:52:47] abgsoft-autopark-unimed.php
+string(100) "cURL error 28: Failed to connect to sys.autopark.com.br port 443 after 10002 ms: Timeout was reached"
+
+[15/05/2024 09:53:49] Verificando a solicitação...
+[15/05/2024 09:53:49] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(33) "Ana Paula Rodrigues da Cruz Silva"
+  ["cpf"]=>
+  string(11) "05256632663"
+  ["email"]=>
+  string(23) "ozielsilva126@gmail.com"
+  ["placa"]=>
+  string(7) "SHD2I40"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[15/05/2024 09:53:49] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: self signed certificate"
+

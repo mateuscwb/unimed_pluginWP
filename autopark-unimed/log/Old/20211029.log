@@ -1,0 +1,955 @@
+[29/10/2021 01:04:26] Verificando a solicitação...
+[29/10/2021 01:29:18] Verificando a solicitação...
+[29/10/2021 01:29:18] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(20) "Gilvane Alves Araujo"
+  ["cpf"]=>
+  string(11) "11362140627"
+  ["email"]=>
+  string(23) "gilvaneaa1964@gmail.com"
+  ["placa"]=>
+  string(7) "HDK9C54"
+  ["unidade"]=>
+  string(1) "7"
+}
+
+[29/10/2021 01:29:18] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 01:32:37] Verificando a solicitação...
+[29/10/2021 01:32:37] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(20) "Gilvane Alves Araujo"
+  ["cpf"]=>
+  string(11) "11362140627"
+  ["email"]=>
+  string(23) "gilvaneaa1964@gmail.com"
+  ["placa"]=>
+  string(7) "HDK9C54"
+  ["unidade"]=>
+  string(1) "7"
+}
+
+[29/10/2021 01:32:37] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 01:44:31] Verificando a solicitação...
+[29/10/2021 01:44:31] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(20) "WILFREDO SALLES RIOS"
+  ["cpf"]=>
+  string(14) "014.184.276-83"
+  ["email"]=>
+  string(19) "will.rios@gmail.com"
+  ["placa"]=>
+  string(7) "QOX0013"
+  ["unidade"]=>
+  string(1) "5"
+}
+
+[29/10/2021 01:44:31] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 01:46:03] Verificando a solicitação...
+[29/10/2021 01:46:03] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(20) "WILFREDO SALLES RIOS"
+  ["cpf"]=>
+  string(14) "014.184.276-83"
+  ["email"]=>
+  string(19) "will.rios@gmail.com"
+  ["placa"]=>
+  string(7) "QOX0013"
+  ["unidade"]=>
+  string(1) "5"
+}
+
+[29/10/2021 01:46:03] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 01:47:24] Verificando a solicitação...
+[29/10/2021 01:47:24] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(20) "WILFREDO SALLES RIOS"
+  ["cpf"]=>
+  string(14) "014.184.276-83"
+  ["email"]=>
+  string(19) "will.rios@gmail.com"
+  ["placa"]=>
+  string(7) "QOX0013"
+  ["unidade"]=>
+  string(1) "5"
+}
+
+[29/10/2021 01:47:24] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 01:47:25] Verificando a solicitação...
+[29/10/2021 01:47:25] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(20) "WILFREDO SALLES RIOS"
+  ["cpf"]=>
+  string(14) "014.184.276-83"
+  ["email"]=>
+  string(19) "will.rios@gmail.com"
+  ["placa"]=>
+  string(7) "QOX0013"
+  ["unidade"]=>
+  string(1) "5"
+}
+
+[29/10/2021 01:47:25] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 01:47:25] Verificando a solicitação...
+[29/10/2021 01:47:25] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(20) "WILFREDO SALLES RIOS"
+  ["cpf"]=>
+  string(14) "014.184.276-83"
+  ["email"]=>
+  string(19) "will.rios@gmail.com"
+  ["placa"]=>
+  string(7) "QOX0013"
+  ["unidade"]=>
+  string(1) "5"
+}
+
+[29/10/2021 01:47:25] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 01:47:37] Verificando a solicitação...
+[29/10/2021 01:47:37] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(20) "WILFREDO SALLES RIOS"
+  ["cpf"]=>
+  string(14) "014.184.276-83"
+  ["email"]=>
+  string(19) "will.rios@gmail.com"
+  ["placa"]=>
+  string(7) "QOX0013"
+  ["unidade"]=>
+  string(1) "5"
+}
+
+[29/10/2021 01:47:37] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 01:47:54] Verificando a solicitação...
+[29/10/2021 01:47:54] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(20) "WILFREDO SALLES RIOS"
+  ["cpf"]=>
+  string(11) "01418427683"
+  ["email"]=>
+  string(19) "will.rios@gmail.com"
+  ["placa"]=>
+  string(7) "QOX0013"
+  ["unidade"]=>
+  string(1) "5"
+}
+
+[29/10/2021 01:47:54] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 03:07:53] Verificando a solicitação...
+[29/10/2021 03:07:53] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(20) "Gilvane Alves Araujo"
+  ["cpf"]=>
+  string(11) "11362140627"
+  ["email"]=>
+  string(23) "gilvaneaa1964@gmail.com"
+  ["placa"]=>
+  string(7) "OQN3020"
+  ["unidade"]=>
+  string(1) "7"
+}
+
+[29/10/2021 03:07:53] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 05:00:10] Verificando a solicitação...
+[29/10/2021 05:00:10] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(14) "Wilfredo Rios "
+  ["cpf"]=>
+  string(11) "01418427683"
+  ["email"]=>
+  string(19) "will.rios@gmail.com"
+  ["placa"]=>
+  string(7) "QOX0013"
+  ["unidade"]=>
+  string(1) "5"
+}
+
+[29/10/2021 05:00:10] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 05:41:11] Verificando a solicitação...
+[29/10/2021 05:41:11] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(27) "IZABEL CRISTINA GOMES COSTA"
+  ["cpf"]=>
+  string(14) "016.507.866-97"
+  ["email"]=>
+  string(27) "izabel.costajesus@gmail.com"
+  ["placa"]=>
+  string(7) "puo5359"
+  ["unidade"]=>
+  string(1) "5"
+}
+
+[29/10/2021 05:41:11] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 06:11:13] Verificando a solicitação...
+[29/10/2021 06:11:13] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(27) "Achiles caldeira quintella "
+  ["cpf"]=>
+  string(14) "093.040.881-00"
+  ["email"]=>
+  string(26) "achilesquintella@gmail.com"
+  ["placa"]=>
+  string(8) "HKC 3700"
+  ["unidade"]=>
+  string(1) "7"
+}
+
+[29/10/2021 06:11:13] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 06:11:28] Verificando a solicitação...
+[29/10/2021 06:11:28] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(27) "Achiles caldeira quintella "
+  ["cpf"]=>
+  string(14) "093.040.881-00"
+  ["email"]=>
+  string(26) "achilesquintella@gmail.com"
+  ["placa"]=>
+  string(8) "HKC 3700"
+  ["unidade"]=>
+  string(1) "7"
+}
+
+[29/10/2021 06:11:28] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 06:11:48] Verificando a solicitação...
+[29/10/2021 06:11:48] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(27) "Achiles caldeira quintella "
+  ["cpf"]=>
+  string(14) "093.040.881-00"
+  ["email"]=>
+  string(26) "achilesquintella@gmail.com"
+  ["placa"]=>
+  string(8) "HKC 3700"
+  ["unidade"]=>
+  string(1) "7"
+}
+
+[29/10/2021 06:11:48] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 06:55:05] Verificando a solicitação...
+[29/10/2021 06:55:05] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(6) "Marcos"
+  ["cpf"]=>
+  string(11) "26771210856"
+  ["email"]=>
+  string(22) "marcosjk20@hotmail.com"
+  ["placa"]=>
+  string(8) "Akj-1707"
+  ["unidade"]=>
+  string(1) "2"
+}
+
+[29/10/2021 06:55:05] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 07:11:46] Verificando a solicitação...
+[29/10/2021 07:11:46] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(5) "Teste"
+  ["cpf"]=>
+  string(14) "930.569.830-10"
+  ["email"]=>
+  string(13) "email@lara.cx"
+  ["placa"]=>
+  string(8) "AAA-1111"
+  ["unidade"]=>
+  string(1) "1"
+}
+
+[29/10/2021 07:11:46] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 07:15:22] Verificando a solicitação...
+[29/10/2021 07:15:22] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(15) "André Cordeiro"
+  ["cpf"]=>
+  string(11) "04642183906"
+  ["email"]=>
+  string(30) "andre.cordeiro@autopark.com.br"
+  ["placa"]=>
+  string(8) "bct-3f68"
+  ["unidade"]=>
+  string(1) "1"
+}
+
+[29/10/2021 07:15:22] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 07:15:39] Verificando a solicitação...
+[29/10/2021 07:15:39] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(5) "Teste"
+  ["cpf"]=>
+  string(14) "930.569.830-10"
+  ["email"]=>
+  string(13) "email@lara.cx"
+  ["placa"]=>
+  string(8) "AAA-1111"
+  ["unidade"]=>
+  string(1) "4"
+}
+
+[29/10/2021 07:15:39] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 07:17:37] Verificando a solicitação...
+[29/10/2021 07:17:37] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(5) "Teste"
+  ["cpf"]=>
+  string(14) "930.569.830-10"
+  ["email"]=>
+  string(13) "email@lara.cx"
+  ["placa"]=>
+  string(8) "AAA-1111"
+  ["unidade"]=>
+  string(1) "4"
+}
+
+[29/10/2021 07:17:37] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 07:19:52] Verificando a solicitação...
+[29/10/2021 07:19:52] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(17) "GILVAN GOMES PEGO"
+  ["cpf"]=>
+  string(14) "090.682.946-10"
+  ["email"]=>
+  string(19) "gilvamg67@gmail.com"
+  ["placa"]=>
+  string(7) "Kol5b77"
+  ["unidade"]=>
+  string(1) "1"
+}
+
+[29/10/2021 07:19:52] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 07:20:28] Verificando a solicitação...
+[29/10/2021 07:20:28] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(17) "GILVAN GOMES PEGO"
+  ["cpf"]=>
+  string(14) "090.682.946-10"
+  ["email"]=>
+  string(19) "gilvamg67@gmail.com"
+  ["placa"]=>
+  string(7) "Kol5b77"
+  ["unidade"]=>
+  string(1) "1"
+}
+
+[29/10/2021 07:20:28] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[29/10/2021 07:24:42] Verificando a solicitação...
+[29/10/2021 07:24:42] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(5) "Teste"
+  ["cpf"]=>
+  string(14) "930.569.830-10"
+  ["email"]=>
+  string(13) "email@lara.cx"
+  ["placa"]=>
+  string(8) "AAA-1111"
+  ["unidade"]=>
+  string(1) "4"
+}
+
+[29/10/2021 07:41:37] Verificando a solicitação...
+[29/10/2021 07:41:37] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(31) "André Luiz dos Santos Cordeiro"
+  ["cpf"]=>
+  string(11) "04642183906"
+  ["email"]=>
+  string(30) "andre.cordeiro@autopark.com.br"
+  ["placa"]=>
+  string(8) "bct-3f68"
+  ["unidade"]=>
+  string(1) "1"
+}
+

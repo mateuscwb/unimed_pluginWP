@@ -1,0 +1,39 @@
+[04/11/2023 12:20:22] Verificando a solicitação...
+[04/11/2023 12:20:22] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(24) "wagner de souza oliveira"
+  ["cpf"]=>
+  string(14) "009.266.046-00"
+  ["email"]=>
+  string(22) "bolao.wagner@gmail.com"
+  ["placa"]=>
+  string(7) "hhh6060"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[04/11/2023 01:58:49] Verificando a solicitação...
+[04/11/2023 02:00:11] Verificando a solicitação...
+[04/11/2023 07:04:48] Verificando a solicitação...
+[04/11/2023 07:04:48] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(33) "Vera Mendes dos Santos Parreiras "
+  ["cpf"]=>
+  string(11) "75884755600"
+  ["email"]=>
+  string(24) "veramparreiras@gmail.com"
+  ["placa"]=>
+  string(7) "RMO5B62"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[04/11/2023 11:18:55] Verificando a solicitação...

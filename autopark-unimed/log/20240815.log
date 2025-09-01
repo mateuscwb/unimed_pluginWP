@@ -1,0 +1,74 @@
+[15/08/2024 12:18:15] Verificando a solicitação...
+[15/08/2024 12:18:15] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "Amanda Pessoa de Oliveira"
+  ["cpf"]=>
+  string(11) "12607036658"
+  ["email"]=>
+  string(24) "amandapdoliver@gmail.com"
+  ["placa"]=>
+  string(7) "LQD2E94"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[15/08/2024 04:21:50] Verificando a solicitação...
+[15/08/2024 05:52:30] Verificando a solicitação...
+[15/08/2024 12:02:03] Verificando a solicitação...
+[15/08/2024 12:02:03] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(28) "Sergio Eduardo Nasckio Abico"
+  ["cpf"]=>
+  string(14) "408.941.936-00"
+  ["email"]=>
+  string(21) "abikosergio@gmail.com"
+  ["placa"]=>
+  string(8) "PVI 8898"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+
+[15/08/2024 02:11:04] Verificando a solicitação...
+[15/08/2024 02:11:04] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(27) "Fabiano dos Santos Teixeira"
+  ["cpf"]=>
+  string(11) "49673246149"
+  ["email"]=>
+  string(23) "fabiano.st.tx@gmail.com"
+  ["placa"]=>
+  string(7) "PZJ3F68"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "1"
+  }
+}
+
+[15/08/2024 05:50:43] Verificando a solicitação...
+[15/08/2024 05:50:43] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(41) "TACIANA AMANDA DA SILVA DE ESPANA PERNOLD"
+  ["cpf"]=>
+  string(14) "063.982.976-79"
+  ["email"]=>
+  string(24) "taciana.amanda@gmail.com"
+  ["placa"]=>
+  string(7) "HDV8G00"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "1"
+  }
+}
+

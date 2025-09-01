@@ -1,0 +1,56 @@
+[14/07/2024 02:50:02] Verificando a solicitação...
+[14/07/2024 06:46:13] Verificando a solicitação...
+[14/07/2024 04:53:02] Verificando a solicitação...
+[14/07/2024 04:53:02] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "Aluisio Celso De Oliveira "
+  ["cpf"]=>
+  string(15) "245.429.976-34 "
+  ["email"]=>
+  string(28) "aluisio.deoliveira@yahoo.com"
+  ["placa"]=>
+  string(8) "PYC-6315"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[14/07/2024 05:17:40] Verificando a solicitação...
+[14/07/2024 05:17:40] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "Roberto Ribeiro Gonçalves"
+  ["cpf"]=>
+  string(14) "387.127.258-20"
+  ["email"]=>
+  string(35) "robertogoncalves.advogado@gmail.com"
+  ["placa"]=>
+  string(7) "HIU5920"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[14/07/2024 06:41:18] Verificando a solicitação...
+[14/07/2024 06:41:18] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(21) "Lígia Almeida Alves "
+  ["cpf"]=>
+  string(14) "006.976.156-69"
+  ["email"]=>
+  string(28) "ligia.almeida@edu.pbh.gov.br"
+  ["placa"]=>
+  string(8) "Heq4c37 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "1"
+  }
+}
+

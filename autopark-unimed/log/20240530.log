@@ -1,0 +1,43 @@
+[30/05/2024 12:58:44] Verificando a solicitação...
+[30/05/2024 06:08:52] Verificando a solicitação...
+[30/05/2024 06:08:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(33) "Rosilene Pereira Araújo Camargos"
+  ["cpf"]=>
+  string(11) "45786682668"
+  ["email"]=>
+  string(23) "roseacamargos@gmail.com"
+  ["placa"]=>
+  string(7) "PXK2080"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[30/05/2024 06:08:52] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[30/05/2024 07:54:00] Verificando a solicitação...
+[30/05/2024 07:54:00] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(27) "SONIA MARIA DA SILVA VIEIRA"
+  ["cpf"]=>
+  string(11) "94113955700"
+  ["email"]=>
+  string(24) "vieira.braulio@gmail.com"
+  ["placa"]=>
+  string(8) "Krs4399 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[30/05/2024 07:54:00] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+

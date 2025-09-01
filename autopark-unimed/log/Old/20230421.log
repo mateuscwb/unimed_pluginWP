@@ -1,0 +1,36 @@
+[21/04/2023 08:14:44] Verificando a solicitação...
+[21/04/2023 08:14:44] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(28) "João Moreira de Souza Neto "
+  ["cpf"]=>
+  string(14) "077.571.346-50"
+  ["email"]=>
+  string(25) "joaojsmoreira@hotmail.com"
+  ["placa"]=>
+  string(7) "PZL0B83"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "6"
+  }
+}
+
+[21/04/2023 05:23:32] Verificando a solicitação...
+[21/04/2023 05:23:32] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "Daisy Mara vilas novas "
+  ["cpf"]=>
+  string(14) "047.507.676-11"
+  ["email"]=>
+  string(22) "daisy.teca@hotmail.com"
+  ["placa"]=>
+  string(7) "Owy8874"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+

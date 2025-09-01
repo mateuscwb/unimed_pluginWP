@@ -1,0 +1,96 @@
+[21/03/2025 05:34:24] Verificando a solicitação...
+[21/03/2025 05:34:24] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Ariadina de Assis Silva Mach6"
+  ["cpf"]=>
+  string(11) "47595760615"
+  ["email"]=>
+  string(31) "ariadina.machado23@yahoo.com.br"
+  ["placa"]=>
+  string(7) "PWY6J36"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[21/03/2025 07:20:05] Verificando a solicitação...
+[21/03/2025 09:31:55] Verificando a solicitação...
+[21/03/2025 09:31:55] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(6) "Karine"
+  ["cpf"]=>
+  string(11) "03675854647"
+  ["email"]=>
+  string(21) "kafisio01@hotmail.com"
+  ["placa"]=>
+  string(7) "HMB8592"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[21/03/2025 09:59:18] Verificando a solicitação...
+[21/03/2025 09:59:18] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(24) "Marcilio Soares Marinho "
+  ["cpf"]=>
+  string(15) "042.576.746-95 "
+  ["email"]=>
+  string(28) "marciliomarinho@yahoo.com.br"
+  ["placa"]=>
+  string(7) "FJT7G45"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[21/03/2025 11:02:28] Verificando a solicitação...
+[21/03/2025 12:31:38] Verificando a solicitação...
+[21/03/2025 01:40:14] Verificando a solicitação...
+[21/03/2025 01:40:14] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(19) "Angie Neves França"
+  ["cpf"]=>
+  string(14) "042.667.586-00"
+  ["email"]=>
+  string(20) "anevesf@yahoo.com.br"
+  ["placa"]=>
+  string(7) "PUO9154"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[21/03/2025 02:01:27] Verificando a solicitação...
+[21/03/2025 06:39:12] Verificando a solicitação...
+[21/03/2025 08:22:55] Verificando a solicitação...
+[21/03/2025 08:22:55] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(36) "Deyvisson Henrique de Castro Batista"
+  ["cpf"]=>
+  string(14) "107.093.736-35"
+  ["email"]=>
+  string(22) "deyvissonhcb@gmail.com"
+  ["placa"]=>
+  string(7) "Qkq9A79"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[21/03/2025 08:59:26] Verificando a solicitação...

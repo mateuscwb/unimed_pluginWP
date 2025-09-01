@@ -1,0 +1,281 @@
+[26/10/2021 02:04:00] Verificando a solicitação...
+[26/10/2021 02:04:00] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(14) "Ariane Batista"
+  ["cpf"]=>
+  string(11) "08203880681"
+  ["email"]=>
+  string(27) "ariane.fonseca@yahoo.com.br"
+  ["placa"]=>
+  string(7) "QOU8158"
+  ["unidade"]=>
+  string(1) "7"
+}
+
+[26/10/2021 02:04:00] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[26/10/2021 11:35:48] Verificando a solicitação...
+[26/10/2021 11:35:48] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(20) "Roneison Tadeu Rocha"
+  ["cpf"]=>
+  string(14) "068.077.836-55"
+  ["email"]=>
+  string(16) "bhsoad@gmail.com"
+  ["placa"]=>
+  string(7) "QOU8158"
+  ["unidade"]=>
+  string(1) "7"
+}
+
+[26/10/2021 11:35:48] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[26/10/2021 11:43:28] Verificando a solicitação...
+[26/10/2021 11:43:28] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(14) "RONEISON ROCHA"
+  ["cpf"]=>
+  string(11) "06807783655"
+  ["email"]=>
+  string(16) "bhsoad@gmail.com"
+  ["placa"]=>
+  string(7) "QOU8158"
+  ["unidade"]=>
+  string(1) "7"
+}
+
+[26/10/2021 11:43:28] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[26/10/2021 11:49:05] Verificando a solicitação...
+[26/10/2021 12:39:26] Verificando a solicitação...
+[26/10/2021 12:39:26] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(6) "Marcos"
+  ["cpf"]=>
+  string(11) "26771210855"
+  ["email"]=>
+  string(29) "marcos.santos@autopark.com.br"
+  ["placa"]=>
+  string(8) "AKJ-1707"
+  ["unidade"]=>
+  string(1) "1"
+}
+
+[26/10/2021 12:39:26] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[26/10/2021 06:33:15] Verificando a solicitação...
+[26/10/2021 06:33:15] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(20) "Roneison Tadeu Rocha"
+  ["cpf"]=>
+  string(14) "068.077.836-55"
+  ["email"]=>
+  string(16) "bhsoad@gmail.com"
+  ["placa"]=>
+  string(7) "QOU8158"
+  ["unidade"]=>
+  string(1) "7"
+}
+
+[26/10/2021 06:33:15] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[26/10/2021 06:44:19] Verificando a solicitação...
+[26/10/2021 06:44:19] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(23) "Alexandre Lunardi Ribas"
+  ["cpf"]=>
+  string(14) "848.711.056-87"
+  ["email"]=>
+  string(19) "alunardi8@gmail.com"
+  ["placa"]=>
+  string(7) "OQC2175"
+  ["unidade"]=>
+  string(1) "7"
+}
+
+[26/10/2021 06:44:19] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+
+[26/10/2021 06:45:25] Verificando a solicitação...
+[26/10/2021 06:45:25] abgsoft-autopark-unimed.php
+array(16) {
+  ["_wpcf7"]=>
+  string(4) "1703"
+  ["_wpcf7_version"]=>
+  string(5) "5.1.7"
+  ["_wpcf7_locale"]=>
+  string(5) "pt_BR"
+  ["_wpcf7_unit_tag"]=>
+  string(20) "wpcf7-f1703-p1524-o1"
+  ["_wpcf7_container_post"]=>
+  string(4) "1524"
+  ["_wpcf7cf_hidden_group_fields"]=>
+  string(2) "[]"
+  ["_wpcf7cf_hidden_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_visible_groups"]=>
+  string(2) "[]"
+  ["_wpcf7cf_repeaters"]=>
+  string(2) "[]"
+  ["_wpcf7cf_steps"]=>
+  string(2) "{}"
+  ["_wpcf7cf_options"]=>
+  string(180) "{\"form_id\":1703,\"conditions\":[],\"settings\":{\"animation\":\"yes\",\"animation_intime\":200,\"animation_outtime\":200,\"conditions_ui\":\"normal\",\"notice_dismissed\":false}}"
+  ["nome"]=>
+  string(23) "Alexandre Lunardi Ribas"
+  ["cpf"]=>
+  string(14) "848.711.056-87"
+  ["email"]=>
+  string(19) "alunardi8@gmail.com"
+  ["placa"]=>
+  string(7) "OQC2175"
+  ["unidade"]=>
+  string(1) "7"
+}
+
+[26/10/2021 06:45:25] abgsoft-autopark-unimed.php
+string(78) "cURL error 60: SSL certificate problem: unable to get local issuer certificate"
+

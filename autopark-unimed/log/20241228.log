@@ -1,0 +1,21 @@
+[28/12/2024 05:11:34] Verificando a solicitação...
+[28/12/2024 12:22:28] Verificando a solicitação...
+[28/12/2024 03:07:11] Verificando a solicitação...
+[28/12/2024 03:07:11] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(18) "Ana Paula Machado "
+  ["cpf"]=>
+  string(11) "10996211608"
+  ["email"]=>
+  string(28) "anapaula.machado56@gmail.com"
+  ["placa"]=>
+  string(7) "Qnw6667"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[28/12/2024 07:29:17] Verificando a solicitação...

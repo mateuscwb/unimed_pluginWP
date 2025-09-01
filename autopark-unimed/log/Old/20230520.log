@@ -1,0 +1,198 @@
+[20/05/2023 02:18:52] Verificando a solicitação...
+[20/05/2023 02:18:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(24) "Heloisa Pereira de Souza"
+  ["cpf"]=>
+  string(11) "00077421698"
+  ["email"]=>
+  string(19) "hp.souza@uol.com.br"
+  ["placa"]=>
+  string(7) "Pwb1618"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[20/05/2023 10:20:57] Verificando a solicitação...
+[20/05/2023 10:20:57] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(8) "Lucelma "
+  ["cpf"]=>
+  string(11) "02851953605"
+  ["email"]=>
+  string(18) "llucelma@gmail.com"
+  ["placa"]=>
+  string(8) "RNJ4H55 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[20/05/2023 11:20:15] Verificando a solicitação...
+[20/05/2023 11:20:15] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(24) "GLEISSON ALVES RODRIGUES"
+  ["cpf"]=>
+  string(14) "670.509.996-87"
+  ["email"]=>
+  string(26) "gleissonalves440@gmail.com"
+  ["placa"]=>
+  string(7) "HDK8281"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[20/05/2023 11:56:07] Verificando a solicitação...
+[20/05/2023 11:56:07] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(22) "MARCELO SILVA DOS REIS"
+  ["cpf"]=>
+  string(11) "03708863640"
+  ["email"]=>
+  string(26) "marcelotjreis@yahoo.com.br"
+  ["placa"]=>
+  string(7) "QUZ9C96"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[20/05/2023 03:07:34] Verificando a solicitação...
+[20/05/2023 03:07:34] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(21) "Igor Marcelo da Silva"
+  ["cpf"]=>
+  string(11) "11112056637"
+  ["email"]=>
+  string(31) "igor.marcelo.designer@gmail.com"
+  ["placa"]=>
+  string(7) "OLV1J67"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[20/05/2023 04:34:58] Verificando a solicitação...
+[20/05/2023 04:34:58] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(22) "Cleiton Alves da Silva"
+  ["cpf"]=>
+  string(11) "06956456680"
+  ["email"]=>
+  string(20) "cleitoas@hotmail.com"
+  ["placa"]=>
+  string(7) "HEJ2660"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[20/05/2023 05:23:12] Verificando a solicitação...
+[20/05/2023 05:23:12] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(24) "Rejane Moreto Herculano "
+  ["cpf"]=>
+  string(11) "79970095749"
+  ["email"]=>
+  string(23) "rejane.moreto@gmail.com"
+  ["placa"]=>
+  string(7) "QPT0268"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[20/05/2023 08:29:05] Verificando a solicitação...
+[20/05/2023 08:29:05] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Claudia Maria Resende Vorcaro"
+  ["cpf"]=>
+  string(11) "66273471649"
+  ["email"]=>
+  string(18) "cvorcaro@gmail.com"
+  ["placa"]=>
+  string(7) "SHT4H23"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "4"
+  }
+}
+
+[20/05/2023 09:03:20] Verificando a solicitação...
+[20/05/2023 09:03:20] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(35) "Ana Flávia Rois de Oliveira Costa "
+  ["cpf"]=>
+  string(11) "13393121669"
+  ["email"]=>
+  string(31) "anaflaviaroiscosta147@gmail.com"
+  ["placa"]=>
+  string(8) "GWD 6D18"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "1"
+  }
+}
+
+[20/05/2023 09:32:51] Verificando a solicitação...
+[20/05/2023 09:32:51] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Priscila Siman Duarte Cortezi"
+  ["cpf"]=>
+  string(14) "060.300.566-70"
+  ["email"]=>
+  string(20) "prisiman@hotmail.com"
+  ["placa"]=>
+  string(7) "Rmh0g03"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[20/05/2023 11:26:03] Verificando a solicitação...
+[20/05/2023 11:26:03] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "ADERBAL BORGES DE OLIVEIRA"
+  ["cpf"]=>
+  string(14) "093.377.628-46"
+  ["email"]=>
+  string(27) "borgesoliveira011@gmail.com"
+  ["placa"]=>
+  string(7) "Puv3235"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+

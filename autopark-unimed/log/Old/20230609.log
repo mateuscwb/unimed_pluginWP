@@ -1,0 +1,200 @@
+[09/06/2023 02:30:34] Verificando a solicitação...
+[09/06/2023 02:30:34] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "Marcus Vinicius Sousa Vita"
+  ["cpf"]=>
+  string(14) "693.389.906-30"
+  ["email"]=>
+  string(22) "marcusvita@hotmail.com"
+  ["placa"]=>
+  string(7) "RUY1F60"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[09/06/2023 09:41:02] Verificando a solicitação...
+[09/06/2023 09:41:02] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(32) "José Geraldo de Oliveira Junior"
+  ["cpf"]=>
+  string(14) "035.793.246-32"
+  ["email"]=>
+  string(22) "jvirtual.net@gmail.com"
+  ["placa"]=>
+  string(7) "Qop7513"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[09/06/2023 10:07:47] Verificando a solicitação...
+[09/06/2023 10:07:47] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(24) "Heloisa Pereira de Souza"
+  ["cpf"]=>
+  string(11) "00077421698"
+  ["email"]=>
+  string(19) "hp.souza@uol.com.br"
+  ["placa"]=>
+  string(7) "PWB1618"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[09/06/2023 12:00:42] Verificando a solicitação...
+[09/06/2023 12:00:42] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(33) "Magda Alice Diniz de Vasconcelos "
+  ["cpf"]=>
+  string(14) "262.278.192-04"
+  ["email"]=>
+  string(23) "magdaalicedvf@gmail.com"
+  ["placa"]=>
+  string(7) "RF07E87"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[09/06/2023 01:13:31] Verificando a solicitação...
+[09/06/2023 01:13:31] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(24) "Ana Lucia Santos fonseca"
+  ["cpf"]=>
+  string(14) "843.825.706-20"
+  ["email"]=>
+  string(29) "analuciafonseca1971@gmail.com"
+  ["placa"]=>
+  string(8) "Pvm-1C23"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[09/06/2023 01:32:14] Verificando a solicitação...
+[09/06/2023 01:32:14] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(37) "Marina Gradice de carvalho parreiras "
+  ["cpf"]=>
+  string(11) "07517450654"
+  ["email"]=>
+  string(23) "marinagradice@gmail.com"
+  ["placa"]=>
+  string(7) "Qne2484"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[09/06/2023 03:51:17] Verificando a solicitação...
+[09/06/2023 03:51:17] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(36) "Priscila de Paula Barbosa dos Santos"
+  ["cpf"]=>
+  string(14) "108.342.856-06"
+  ["email"]=>
+  string(34) "Priscila.paula.barbosa12@gmail.com"
+  ["placa"]=>
+  string(7) "Pud1873"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[09/06/2023 03:51:35] Verificando a solicitação...
+[09/06/2023 03:51:35] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(36) "Priscila de Paula Barbosa dos Santos"
+  ["cpf"]=>
+  string(14) "108.342.856-06"
+  ["email"]=>
+  string(34) "Priscila.paula.barbosa12@gmail.com"
+  ["placa"]=>
+  string(7) "Pud1873"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[09/06/2023 04:47:25] Verificando a solicitação...
+[09/06/2023 04:47:25] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(28) "ALESSANDRA ANGELICA CUSTODIO"
+  ["cpf"]=>
+  string(11) "97057088604"
+  ["email"]=>
+  string(34) "alessandra.custodio@edu.pbh.gov.br"
+  ["placa"]=>
+  string(8) "HMR 8221"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[09/06/2023 05:06:38] Verificando a solicitação...
+[09/06/2023 05:06:38] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(27) "Ygor Marlon Cordeiro Braga "
+  ["cpf"]=>
+  string(11) "12992292630"
+  ["email"]=>
+  string(27) "ygor.marlon.braga@gmail.com"
+  ["placa"]=>
+  string(7) "SHQ5G51"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[09/06/2023 05:10:32] Verificando a solicitação...
+[09/06/2023 05:12:33] Verificando a solicitação...
+[09/06/2023 05:12:33] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(27) "Ygor Marlon Cordeiro Braga "
+  ["cpf"]=>
+  string(11) "12992292630"
+  ["email"]=>
+  string(27) "ygor.marlon.braga@gmail.com"
+  ["placa"]=>
+  string(7) "SHQ5G51"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[09/06/2023 08:22:38] Verificando a solicitação...

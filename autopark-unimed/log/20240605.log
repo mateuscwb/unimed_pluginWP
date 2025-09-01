@@ -1,0 +1,1036 @@
+[05/06/2024 12:59:10] Verificando a solicitação...
+[05/06/2024 12:59:10] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "Lucimary Antunes de Souza "
+  ["cpf"]=>
+  string(14) "037.262.916-44"
+  ["email"]=>
+  string(28) "lucimaryantunes@yahoo.com.br"
+  ["placa"]=>
+  string(8) "OXH 8E19"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[05/06/2024 12:59:10] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 01:44:34] Verificando a solicitação...
+[05/06/2024 09:25:57] Verificando a solicitação...
+[05/06/2024 09:38:03] Verificando a solicitação...
+[05/06/2024 09:38:03] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(20) "Antonio José Coelho"
+  ["cpf"]=>
+  string(11) "05464437614"
+  ["email"]=>
+  string(27) "antoniocoelho1159@gmail.com"
+  ["placa"]=>
+  string(8) "Gyi 3998"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[05/06/2024 09:38:03] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 10:31:42] Verificando a solicitação...
+[05/06/2024 10:31:42] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(27) "ERIQUES LUIS DA SILVA PAIVA"
+  ["cpf"]=>
+  string(14) "015.606.496-07"
+  ["email"]=>
+  string(32) "eriques@vetorsulhotelaria.com.br"
+  ["placa"]=>
+  string(7) "RVK1G47"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+
+[05/06/2024 10:31:42] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 10:39:55] Verificando a solicitação...
+[05/06/2024 10:39:55] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "IRENE REGGIANI COSTA DE ABREU"
+  ["cpf"]=>
+  string(15) "453.478.596-87 "
+  ["email"]=>
+  string(25) "irenereggiani03@gmail.com"
+  ["placa"]=>
+  string(7) "QXO6F72"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 10:39:55] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 11:11:17] Verificando a solicitação...
+[05/06/2024 11:11:17] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(18) "Ana Karla Carreiro"
+  ["cpf"]=>
+  string(14) "968.383.886-34"
+  ["email"]=>
+  string(25) "limacarreiro@yahoo.com.br"
+  ["placa"]=>
+  string(8) "RFQ-5A83"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[05/06/2024 11:11:17] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 11:30:44] Verificando a solicitação...
+[05/06/2024 11:49:19] Verificando a solicitação...
+[05/06/2024 11:49:19] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(31) "FLÁVIA CRISTINA DE SOUZA COSTA"
+  ["cpf"]=>
+  string(14) "541.914.246-53"
+  ["email"]=>
+  string(25) "emaildaflavia68@gmail.com"
+  ["placa"]=>
+  string(8) "Opo 9788"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "4"
+  }
+}
+
+[05/06/2024 11:49:19] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 11:50:46] Verificando a solicitação...
+[05/06/2024 11:50:46] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(31) "Roosevelt Henrique Junio Costa "
+  ["cpf"]=>
+  string(14) "048.793.906-90"
+  ["email"]=>
+  string(25) "rooseveltcosta7@gmail.com"
+  ["placa"]=>
+  string(7) "HCI7F58"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 11:50:46] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 11:59:52] Verificando a solicitação...
+[05/06/2024 11:59:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(28) "FERNANDA MIRANDA DE OLIVEIRA"
+  ["cpf"]=>
+  string(14) "030.429.826-37"
+  ["email"]=>
+  string(37) "fernanda.mirandaoliveira@yahoo.com.br"
+  ["placa"]=>
+  string(7) "SIQ0C92"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 11:59:52] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 12:39:57] Verificando a solicitação...
+[05/06/2024 12:39:57] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(19) "Luiz Paulo Saraiva "
+  ["cpf"]=>
+  string(15) "013.146.116-82 "
+  ["email"]=>
+  string(24) "contato.luizps@gmail.com"
+  ["placa"]=>
+  string(7) "OLY4826"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[05/06/2024 12:39:57] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 12:40:46] Verificando a solicitação...
+[05/06/2024 12:40:46] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(19) "Luiz Paulo Saraiva "
+  ["cpf"]=>
+  string(15) "013.146.116-82 "
+  ["email"]=>
+  string(24) "contato.luizps@gmail.com"
+  ["placa"]=>
+  string(7) "OLY4826"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[05/06/2024 12:40:46] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 12:43:10] Verificando a solicitação...
+[05/06/2024 12:43:10] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(16) "Ronaldo Santiago"
+  ["cpf"]=>
+  string(14) "996.636.866-34"
+  ["email"]=>
+  string(23) "rajaobilbao@hotmail.com"
+  ["placa"]=>
+  string(7) "Pyv6674"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "4"
+  }
+}
+
+[05/06/2024 12:43:10] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 12:43:13] Verificando a solicitação...
+[05/06/2024 12:59:01] Verificando a solicitação...
+[05/06/2024 12:59:01] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(22) "Ana Aparecida Teixeira"
+  ["cpf"]=>
+  string(11) "90737547634"
+  ["email"]=>
+  string(30) "teixeiraanaaparecida@gmail.com"
+  ["placa"]=>
+  string(8) "PXP-5804"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[05/06/2024 12:59:01] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 01:04:04] Verificando a solicitação...
+[05/06/2024 01:04:04] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(32) "Alice Drummond Oliveira Resende "
+  ["cpf"]=>
+  string(11) "52924432634"
+  ["email"]=>
+  string(25) "alicelagoasanta@gmail.com"
+  ["placa"]=>
+  string(6) "Qmoh11"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[05/06/2024 01:04:04] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 01:05:59] Verificando a solicitação...
+[05/06/2024 01:15:52] Verificando a solicitação...
+[05/06/2024 01:15:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(35) "Suellen Hermínia Diniz Figueiredo "
+  ["cpf"]=>
+  string(11) "09746950681"
+  ["email"]=>
+  string(32) "suellendinizfigueiredo@gmail.com"
+  ["placa"]=>
+  string(7) "PUW7C06"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[05/06/2024 01:15:52] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 01:16:21] Verificando a solicitação...
+[05/06/2024 01:16:21] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(35) "Suellen Hermínia Diniz Figueiredo "
+  ["cpf"]=>
+  string(11) "09746950681"
+  ["email"]=>
+  string(32) "suellendinizfigueiredo@gmail.com"
+  ["placa"]=>
+  string(7) "PUW7C06"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[05/06/2024 01:16:21] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 01:16:43] Verificando a solicitação...
+[05/06/2024 01:16:43] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(35) "Suellen Hermínia Diniz Figueiredo "
+  ["cpf"]=>
+  string(11) "09746950681"
+  ["email"]=>
+  string(32) "suellendinizfigueiredo@gmail.com"
+  ["placa"]=>
+  string(7) "PUW7C06"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[05/06/2024 01:16:43] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 01:30:28] Verificando a solicitação...
+[05/06/2024 01:30:28] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(28) "ROSIANE MARY REZENDE FALEIRO"
+  ["cpf"]=>
+  string(11) "05125312690"
+  ["email"]=>
+  string(27) "rosianefaleiro@yahoo.com.br"
+  ["placa"]=>
+  string(7) "QQV4368"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 01:30:28] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 01:31:50] Verificando a solicitação...
+[05/06/2024 01:31:50] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(28) "ROSIANE MARY REZENDE FALEIRO"
+  ["cpf"]=>
+  string(11) "05125312690"
+  ["email"]=>
+  string(27) "rosianefaleiro@yahoo.com.br"
+  ["placa"]=>
+  string(7) "QQV4368"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 01:31:50] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 01:33:02] Verificando a solicitação...
+[05/06/2024 01:33:02] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(15) "ROSIANE FALEIRO"
+  ["cpf"]=>
+  string(11) "05125312690"
+  ["email"]=>
+  string(27) "rosianefaleiro@yahoo.com.br"
+  ["placa"]=>
+  string(7) "QQV4368"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 01:33:02] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 01:50:50] Verificando a solicitação...
+[05/06/2024 01:50:50] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(28) "Paulo Roberto das Neves lima"
+  ["cpf"]=>
+  string(14) "136.461.766-87"
+  ["email"]=>
+  string(31) "paulorobertoneveslima@gmail.com"
+  ["placa"]=>
+  string(7) "RUE5B01"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[05/06/2024 01:50:50] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 02:23:28] Verificando a solicitação...
+[05/06/2024 02:23:28] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "LETICIA RIBEIRO ALVES DOS REIS"
+  ["cpf"]=>
+  string(14) "064.769.986-92"
+  ["email"]=>
+  string(25) "leticiareis1960@gmail.com"
+  ["placa"]=>
+  string(7) "Olo6694"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 02:23:28] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 02:26:32] Verificando a solicitação...
+[05/06/2024 02:26:32] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "LETICIA RIBEIRO ALVES DOS REIS"
+  ["cpf"]=>
+  string(14) "064.769.986-92"
+  ["email"]=>
+  string(25) "leticiareis1960@gmail.com"
+  ["placa"]=>
+  string(7) "OLO6694"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 02:26:32] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 03:04:39] Verificando a solicitação...
+[05/06/2024 03:04:39] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(20) "Genny Baptista Mafra"
+  ["cpf"]=>
+  string(14) "392.461.166-15"
+  ["email"]=>
+  string(22) "gennymafra@hotmail.com"
+  ["placa"]=>
+  string(7) "OOY7283"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 03:04:39] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 03:06:52] Verificando a solicitação...
+[05/06/2024 03:06:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(22) "ANDREZA DA SILVA COSTA"
+  ["cpf"]=>
+  string(14) "056.009.616-00"
+  ["email"]=>
+  string(25) "andrezasilva1@hotmail.com"
+  ["placa"]=>
+  string(7) "GSF6082"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 03:06:52] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 04:10:05] Verificando a solicitação...
+[05/06/2024 04:10:05] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(32) "Silvia de Oliveira Birchal Azar "
+  ["cpf"]=>
+  string(15) "297.050.106-68 "
+  ["email"]=>
+  string(23) "silviabirchal@gmail.com"
+  ["placa"]=>
+  string(8) "SHJ5B67 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 04:10:05] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 04:33:53] Verificando a solicitação...
+[05/06/2024 04:33:53] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(20) "Genny Baptista Mafra"
+  ["cpf"]=>
+  string(14) "392.461.166-15"
+  ["email"]=>
+  string(22) "gennymafra@hotmail.com"
+  ["placa"]=>
+  string(7) "OOY7283"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 04:33:53] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 04:42:01] Verificando a solicitação...
+[05/06/2024 04:42:01] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(27) "Giovanna Cristina Haussmann"
+  ["cpf"]=>
+  string(14) "758.377.146-34"
+  ["email"]=>
+  string(24) "giovannacah@yahoo.com.br"
+  ["placa"]=>
+  string(8) "QSF5A94 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 04:42:01] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 04:43:50] Verificando a solicitação...
+[05/06/2024 04:43:50] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(27) "Giovanna Cristina Haussmann"
+  ["cpf"]=>
+  string(14) "758.377.146-34"
+  ["email"]=>
+  string(24) "giovannacah@yahoo.com.br"
+  ["placa"]=>
+  string(8) "QSF5A94 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 04:43:50] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 04:45:44] Verificando a solicitação...
+[05/06/2024 04:45:44] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(15) "ROBERTO PINELLO"
+  ["cpf"]=>
+  string(14) "392.450.558-68"
+  ["email"]=>
+  string(19) "rpinello@uol.com.br"
+  ["placa"]=>
+  string(7) "NXY6I21"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[05/06/2024 04:45:44] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 05:19:18] Verificando a solicitação...
+[05/06/2024 05:19:18] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(17) "GILVAN GOMES PEGO"
+  ["cpf"]=>
+  string(14) "090.682.946-10"
+  ["email"]=>
+  string(19) "gilvamg67@gmail.com"
+  ["placa"]=>
+  string(7) "KOL5B75"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[05/06/2024 05:19:18] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 05:53:52] Verificando a solicitação...
+[05/06/2024 05:53:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(11) "junia maria"
+  ["cpf"]=>
+  string(11) "97032476600"
+  ["email"]=>
+  string(21) "juniamf2016@gmail.com"
+  ["placa"]=>
+  string(7) "HGI5483"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[05/06/2024 05:53:52] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 05:57:47] Verificando a solicitação...
+[05/06/2024 05:57:47] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(19) "Juniamarieferreira "
+  ["cpf"]=>
+  string(14) "970.324.766-00"
+  ["email"]=>
+  string(21) "juniamf2016@gmail.com"
+  ["placa"]=>
+  string(8) "Hgi 5483"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[05/06/2024 05:57:47] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 05:58:30] Verificando a solicitação...
+[05/06/2024 05:58:30] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(15) "Mônica Santos "
+  ["cpf"]=>
+  string(12) "06159029606 "
+  ["email"]=>
+  string(23) "monialesantos@gmail.com"
+  ["placa"]=>
+  string(8) "ORC7504 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 05:58:30] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 06:20:29] Verificando a solicitação...
+[05/06/2024 06:20:29] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "LAURITA VICENTE PEREIRA"
+  ["cpf"]=>
+  string(14) "507.349.706-68"
+  ["email"]=>
+  string(25) "laurita.vicente@gmail.com"
+  ["placa"]=>
+  string(7) "OWM0439"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[05/06/2024 06:20:29] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 06:20:47] Verificando a solicitação...
+[05/06/2024 06:20:47] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(18) "Valter Gonçalves "
+  ["cpf"]=>
+  string(11) "02859689630"
+  ["email"]=>
+  string(20) "valtervgar@gmail.com"
+  ["placa"]=>
+  string(7) "HGA2982"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 06:20:47] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 06:21:24] Verificando a solicitação...
+[05/06/2024 06:21:24] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(15) "Mônica Santos "
+  ["cpf"]=>
+  string(12) "06159029606 "
+  ["email"]=>
+  string(23) "monialesantos@gmail.com"
+  ["placa"]=>
+  string(8) "ORC7504 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 06:21:24] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 06:42:04] Verificando a solicitação...
+[05/06/2024 06:42:04] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(24) "SABRINA M ROSARIO avelar"
+  ["cpf"]=>
+  string(14) "109.308.386-70"
+  ["email"]=>
+  string(25) "sabrinamartinha@gmail.com"
+  ["placa"]=>
+  string(7) "Pwc0D29"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[05/06/2024 06:42:04] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 06:53:05] Verificando a solicitação...
+[05/06/2024 06:53:05] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(13) "Mateus Correa"
+  ["cpf"]=>
+  string(11) "84851791020"
+  ["email"]=>
+  string(29) "mateus.correa@autopark.com.br"
+  ["placa"]=>
+  string(7) "AHJ1431"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[05/06/2024 06:53:05] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 06:58:54] Verificando a solicitação...
+[05/06/2024 07:06:30] Verificando a solicitação...
+[05/06/2024 07:06:30] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "Aluisio Celso De Oliveira "
+  ["cpf"]=>
+  string(15) "245.429.976-34 "
+  ["email"]=>
+  string(28) "aluisio.deoliveira@yahoo.com"
+  ["placa"]=>
+  string(8) "PYC-6315"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 07:06:30] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 07:09:17] Verificando a solicitação...
+[05/06/2024 07:09:17] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "Aluisio Celso De Oliveira "
+  ["cpf"]=>
+  string(15) "245.429.976-34 "
+  ["email"]=>
+  string(28) "aluisio.deoliveira@yahoo.com"
+  ["placa"]=>
+  string(8) "PYC-6315"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 07:09:17] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 07:09:23] Verificando a solicitação...
+[05/06/2024 07:09:23] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "Pedro Henrique Junio Ferreira "
+  ["cpf"]=>
+  string(11) "10189974664"
+  ["email"]=>
+  string(22) "p_h_junio@yahoo.com.br"
+  ["placa"]=>
+  string(7) "Pyw0669"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 07:09:23] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 07:11:35] Verificando a solicitação...
+[05/06/2024 07:11:35] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(14) "Mônica Santos"
+  ["cpf"]=>
+  string(12) "06159029606 "
+  ["email"]=>
+  string(23) "monialesantos@gmail.com"
+  ["placa"]=>
+  string(8) "ORC7504 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 07:11:35] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 07:13:46] Verificando a solicitação...
+[05/06/2024 07:13:46] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Pedro Henrique Junio Ferreira"
+  ["cpf"]=>
+  string(11) "10189974664"
+  ["email"]=>
+  string(22) "p_h_junio@yahoo.com.br"
+  ["placa"]=>
+  string(7) "Pyw0669"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 07:13:46] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 07:15:16] Verificando a solicitação...
+[05/06/2024 07:15:16] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(15) "Mônica Santos "
+  ["cpf"]=>
+  string(14) "061.590.296-06"
+  ["email"]=>
+  string(23) "monialesantos@gmail.com"
+  ["placa"]=>
+  string(8) "ORC7504 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 07:15:16] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 07:36:07] Verificando a solicitação...
+[05/06/2024 07:46:09] Verificando a solicitação...
+[05/06/2024 07:46:09] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(28) "Daylon Wendell Donato Alves "
+  ["cpf"]=>
+  string(11) "13781546659"
+  ["email"]=>
+  string(26) "alves.daylon1999@gmail.com"
+  ["placa"]=>
+  string(7) "HHD1J38"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 07:46:09] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 07:50:17] Verificando a solicitação...
+[05/06/2024 07:50:17] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(28) "Daylon Wendell Donato Alves "
+  ["cpf"]=>
+  string(14) "137.815.466-59"
+  ["email"]=>
+  string(26) "alves.daylon1999@gmail.com"
+  ["placa"]=>
+  string(7) "HHD1J38"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 07:50:17] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 08:24:46] Verificando a solicitação...
+[05/06/2024 08:24:46] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(18) "Daniela Gonçalves"
+  ["cpf"]=>
+  string(14) "051.791.676-20"
+  ["email"]=>
+  string(18) "danivgar@gmail.com"
+  ["placa"]=>
+  string(7) "HGA2982"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 08:24:46] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 08:29:16] Verificando a solicitação...
+[05/06/2024 08:29:16] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(19) "André De Oliveira "
+  ["cpf"]=>
+  string(11) "80187684634"
+  ["email"]=>
+  string(20) "damiaoag@hotmail.com"
+  ["placa"]=>
+  string(7) "HFR5081"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[05/06/2024 08:29:16] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+
+[05/06/2024 09:29:51] Verificando a solicitação...
+[05/06/2024 09:29:51] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(31) "Antonio Vicente de Paula Vieira"
+  ["cpf"]=>
+  string(14) "138.496.706-00"
+  ["email"]=>
+  string(20) "avpvieira1@gmail.com"
+  ["placa"]=>
+  string(8) "Oly 3082"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[05/06/2024 09:29:51] abgsoft-autopark-unimed.php
+string(63) "cURL error 60: SSL certificate problem: certificate has expired"
+

@@ -1,0 +1,55 @@
+[14/10/2023 08:01:18] Verificando a solicitação...
+[14/10/2023 08:01:18] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "PEDRO NUNES VIEIRA NETO"
+  ["cpf"]=>
+  string(14) "427.684.706-00"
+  ["email"]=>
+  string(26) "P.NUNESVIEIRA@YAHOO.COM.BR"
+  ["placa"]=>
+  string(7) "RUO7B98"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[14/10/2023 06:26:24] Verificando a solicitação...
+[14/10/2023 07:03:27] Verificando a solicitação...
+[14/10/2023 07:03:27] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Sheila Lopes Leal Gonçalves "
+  ["cpf"]=>
+  string(11) "10043938736"
+  ["email"]=>
+  string(25) "sheilalopesleal@gmail.com"
+  ["placa"]=>
+  string(7) "HEW3J54"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "1"
+  }
+}
+
+[14/10/2023 09:57:52] Verificando a solicitação...
+[14/10/2023 09:57:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "CLAUDIENE GARCIA DE FARIAS"
+  ["cpf"]=>
+  string(14) "089.444.186-83"
+  ["email"]=>
+  string(24) "claudyedfisica@gmail.com"
+  ["placa"]=>
+  string(7) "Qqg0531"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+

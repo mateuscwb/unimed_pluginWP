@@ -1,0 +1,38 @@
+[08/07/2023 11:36:52] Verificando a solicitação...
+[08/07/2023 11:36:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(32) "Sophia ferreira correa da Silva "
+  ["cpf"]=>
+  string(14) "117.864.056-60"
+  ["email"]=>
+  string(22) "sophia.fcs@hotmail.com"
+  ["placa"]=>
+  string(7) "QQF7D96"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[08/07/2023 01:37:45] Verificando a solicitação...
+[08/07/2023 01:37:45] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(28) "Reinaldo Gonçalves de Assis"
+  ["cpf"]=>
+  string(11) "04103557630"
+  ["email"]=>
+  string(24) "reinaldogassis@gmail.com"
+  ["placa"]=>
+  string(7) "HMZ5H09"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[08/07/2023 06:48:37] Verificando a solicitação...
+[08/07/2023 06:48:39] Verificando a solicitação...

@@ -1,0 +1,108 @@
+[07/04/2023 05:36:40] Verificando a solicitação...
+[07/04/2023 05:36:40] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "Eduardo Tadeu Silva Santos"
+  ["cpf"]=>
+  string(14) "126.496.166-95"
+  ["email"]=>
+  string(27) "eduardo.tadeu_u@hotmail.com"
+  ["placa"]=>
+  string(7) "quu0279"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[07/04/2023 08:15:49] Verificando a solicitação...
+[07/04/2023 08:15:49] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(28) "Luiz Carlos Dias dos Santos "
+  ["cpf"]=>
+  string(11) "59169435634"
+  ["email"]=>
+  string(23) "luluizdias@yahoo.com.br"
+  ["placa"]=>
+  string(9) "RMR 9A87 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[07/04/2023 08:46:08] Verificando a solicitação...
+[07/04/2023 08:46:08] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "Jéssica Oliveira Costa"
+  ["cpf"]=>
+  string(14) "136.261.976-03"
+  ["email"]=>
+  string(23) "jessica.kin@hotmail.com"
+  ["placa"]=>
+  string(7) "MHS0273"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[07/04/2023 10:54:19] Verificando a solicitação...
+[07/04/2023 10:54:19] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(5) "Junio"
+  ["cpf"]=>
+  string(14) "116.098.596-00"
+  ["email"]=>
+  string(21) "junio-bad@hotmail.com"
+  ["placa"]=>
+  string(7) "Jcu2457"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[07/04/2023 10:57:57] Verificando a solicitação...
+[07/04/2023 10:57:57] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(21) "junio-bad@hotmail.com"
+  ["cpf"]=>
+  string(14) "116.098.596-00"
+  ["email"]=>
+  string(21) "junio-bad@hotmail.com"
+  ["placa"]=>
+  string(7) "Hcu0629"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[07/04/2023 11:46:05] Verificando a solicitação...
+[07/04/2023 11:46:05] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(20) "José Amaro Firmino "
+  ["cpf"]=>
+  string(11) "75856948653"
+  ["email"]=>
+  string(30) "jose.amaro_firmino@hotmail.com"
+  ["placa"]=>
+  string(8) "Qpw9918 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+

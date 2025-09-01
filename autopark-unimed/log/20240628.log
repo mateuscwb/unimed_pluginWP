@@ -1,0 +1,145 @@
+[28/06/2024 07:36:33] Verificando a solicitação...
+[28/06/2024 07:36:33] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(32) "Thatiana Ribeiro de Deus Duarte "
+  ["cpf"]=>
+  string(15) "068.768.246-08 "
+  ["email"]=>
+  string(27) "thatianaribeiro@hotmail.com"
+  ["placa"]=>
+  string(8) "RFV7G16 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+
+[28/06/2024 09:29:08] Verificando a solicitação...
+[28/06/2024 09:29:08] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(24) "Daniela Andaku Da Silva "
+  ["cpf"]=>
+  string(14) "044.085.046-02"
+  ["email"]=>
+  string(21) "daniela.asm@gmail.com"
+  ["placa"]=>
+  string(7) "HID1762"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[28/06/2024 10:58:24] Verificando a solicitação...
+[28/06/2024 10:58:24] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(14) "Elvis carvalho"
+  ["cpf"]=>
+  string(11) "11522878697"
+  ["email"]=>
+  string(20) "elviscarva@gmail.com"
+  ["placa"]=>
+  string(7) "OPB7J41"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[28/06/2024 11:57:15] Verificando a solicitação...
+[28/06/2024 11:57:15] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(17) "Pâmela Siqueira "
+  ["cpf"]=>
+  string(14) "076.390.336-16"
+  ["email"]=>
+  string(27) "pamela.siqueira@hotmail.com"
+  ["placa"]=>
+  string(8) "Gzd 2739"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[28/06/2024 12:07:27] Verificando a solicitação...
+[28/06/2024 12:07:27] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(16) "JACKSON B SANTOS"
+  ["cpf"]=>
+  string(11) "09847501696"
+  ["email"]=>
+  string(25) "adriellesanolli@gmail.com"
+  ["placa"]=>
+  string(7) "PWB3F38"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+
+[28/06/2024 01:27:27] Verificando a solicitação...
+[28/06/2024 01:27:27] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(31) "Ariadina de Assis Silva Machado"
+  ["cpf"]=>
+  string(11) "47595760615"
+  ["email"]=>
+  string(31) "ariadina.machado23@yahoo.com.br"
+  ["placa"]=>
+  string(7) "PWY6J36"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[28/06/2024 02:17:27] Verificando a solicitação...
+[28/06/2024 02:17:27] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(24) "Marlon Alexandre da Mata"
+  ["cpf"]=>
+  string(11) "05034295628"
+  ["email"]=>
+  string(28) "erika_alves2004@yahoo.com.br"
+  ["placa"]=>
+  string(7) "Hlr0296"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "4"
+  }
+}
+
+[28/06/2024 03:36:56] Verificando a solicitação...
+[28/06/2024 03:36:56] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "Carlos Alberto de Moura"
+  ["cpf"]=>
+  string(14) "705.202.596-53"
+  ["email"]=>
+  string(22) "carlosdemoura@live.com"
+  ["placa"]=>
+  string(7) "HPS5500"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[28/06/2024 07:18:36] Verificando a solicitação...

@@ -1,0 +1,78 @@
+[08/12/2023 03:12:01] Verificando a solicitação...
+[08/12/2023 03:12:01] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(16) "kalinka dos reis"
+  ["cpf"]=>
+  string(11) "01954686609"
+  ["email"]=>
+  string(24) "kalinkadosreis@gmail.com"
+  ["placa"]=>
+  string(7) "HNZ7404"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[08/12/2023 10:37:18] Verificando a solicitação...
+[08/12/2023 11:06:40] Verificando a solicitação...
+[08/12/2023 11:06:40] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "MITSUE LARANJEIRAS BARROS SUGA"
+  ["cpf"]=>
+  string(11) "03053810670"
+  ["email"]=>
+  string(23) "mitsuesuga@yahoo.com.br"
+  ["placa"]=>
+  string(7) "PVD1741"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "1"
+  }
+}
+
+[08/12/2023 11:07:14] Verificando a solicitação...
+[08/12/2023 11:07:14] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "MITSUE LARANJEIRAS BARROS SUGA"
+  ["cpf"]=>
+  string(11) "03053810670"
+  ["email"]=>
+  string(23) "mitsuesuga@yahoo.com.br"
+  ["placa"]=>
+  string(7) "PVD1741"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "1"
+  }
+}
+
+[08/12/2023 11:25:03] Verificando a solicitação...
+[08/12/2023 12:57:51] Verificando a solicitação...
+[08/12/2023 02:25:54] Verificando a solicitação...
+[08/12/2023 02:25:54] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(39) "CINTIA RAFAELA DE ALMEIDA SILVA CARQUES"
+  ["cpf"]=>
+  string(11) "06577158673"
+  ["email"]=>
+  string(22) "cintiaras@yahoo.com.br"
+  ["placa"]=>
+  string(7) "OPI2274"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+
+[08/12/2023 05:33:20] Verificando a solicitação...
+[08/12/2023 06:17:25] Verificando a solicitação...
+[08/12/2023 07:59:19] Verificando a solicitação...

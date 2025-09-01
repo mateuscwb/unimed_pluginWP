@@ -1,0 +1,111 @@
+[21/09/2024 12:02:25] Verificando a solicitação...
+[21/09/2024 12:02:25] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(17) "CATIANE RODRIGUES"
+  ["cpf"]=>
+  string(14) "005.379.646-22"
+  ["email"]=>
+  string(29) "catianerodrigues@yahoo.com.br"
+  ["placa"]=>
+  string(7) "QNK8286"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[21/09/2024 02:20:16] Verificando a solicitação...
+[21/09/2024 02:20:16] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(39) "Matheus Alexander Damascena de carvalho"
+  ["cpf"]=>
+  string(11) "12550569679"
+  ["email"]=>
+  string(25) "rapha.crist12@hotmail.com"
+  ["placa"]=>
+  string(7) "Hcg9i33"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[21/09/2024 02:54:44] Verificando a solicitação...
+[21/09/2024 02:54:44] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(40) "Eriene Cristina de Almeida Santos Rocha "
+  ["cpf"]=>
+  string(11) "01593076606"
+  ["email"]=>
+  string(20) "erienecris@gmail.com"
+  ["placa"]=>
+  string(7) "Opm5c03"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[21/09/2024 03:17:12] Verificando a solicitação...
+[21/09/2024 03:17:12] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(24) "Betsabeia Eliza Clemente"
+  ["cpf"]=>
+  string(11) "00937808695"
+  ["email"]=>
+  string(21) "bebeiaeliza@gmail.com"
+  ["placa"]=>
+  string(7) "PXR0H20"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[21/09/2024 03:17:42] abgsoft-autopark-unimed.php
+string(81) "cURL error 28: Operation timed out after 30002 milliseconds with 0 bytes received"
+
+[21/09/2024 03:25:31] Verificando a solicitação...
+[21/09/2024 03:25:31] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(24) "Betsabeia Eliza Clemente"
+  ["cpf"]=>
+  string(11) "00937808695"
+  ["email"]=>
+  string(21) "bebeiaeliza@gmail.com"
+  ["placa"]=>
+  string(7) "Pxr0h20"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[21/09/2024 05:02:45] Verificando a solicitação...
+[21/09/2024 05:02:45] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(34) "Janaina Fernanda Aganetti de Souza"
+  ["cpf"]=>
+  string(11) "05441489677"
+  ["email"]=>
+  string(28) "janainaaganetti@yahoo.com.br"
+  ["placa"]=>
+  string(7) "OQP5250"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+

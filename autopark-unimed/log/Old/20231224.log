@@ -1,0 +1,108 @@
+[24/12/2023 12:08:55] Verificando a solicitação...
+[24/12/2023 12:08:55] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(21) "Ailton Alves da Silva"
+  ["cpf"]=>
+  string(14) "044.671.256-63"
+  ["email"]=>
+  string(22) "ailtonpneu@hotmail.com"
+  ["placa"]=>
+  string(7) "ATH6105"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[24/12/2023 12:11:40] Verificando a solicitação...
+[24/12/2023 12:11:40] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(22) "Ailton Alves da Silva "
+  ["cpf"]=>
+  string(14) "044.671.256-63"
+  ["email"]=>
+  string(22) "ailtonpneu@hotmail.com"
+  ["placa"]=>
+  string(7) "ATH6105"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[24/12/2023 12:13:04] Verificando a solicitação...
+[24/12/2023 12:13:04] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(22) "Ailton Alves da Silva "
+  ["cpf"]=>
+  string(14) "044.671.256-63"
+  ["email"]=>
+  string(22) "ailtonpneu@hotmail.com"
+  ["placa"]=>
+  string(7) "ATH6105"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[24/12/2023 01:51:52] Verificando a solicitação...
+[24/12/2023 01:51:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(6) "ELIAS "
+  ["cpf"]=>
+  string(14) "636.079.646-53"
+  ["email"]=>
+  string(23) "elscorgozinho@gmail.com"
+  ["placa"]=>
+  string(7) "hcg0435"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[24/12/2023 06:26:45] Verificando a solicitação...
+[24/12/2023 06:26:45] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "Pedro Henrique Junio Ferreira "
+  ["cpf"]=>
+  string(11) "10189974664"
+  ["email"]=>
+  string(22) "p_h_junio@uahoo.com.br"
+  ["placa"]=>
+  string(7) "Pyw0669"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "4"
+  }
+}
+
+[24/12/2023 06:28:59] Verificando a solicitação...
+[24/12/2023 06:28:59] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "Pedro Henrique Junio Ferreira "
+  ["cpf"]=>
+  string(11) "10189974664"
+  ["email"]=>
+  string(22) "p_h_junio@yahoo.com.br"
+  ["placa"]=>
+  string(7) "PYW0669"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "4"
+  }
+}
+

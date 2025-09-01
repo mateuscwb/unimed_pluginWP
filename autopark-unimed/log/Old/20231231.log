@@ -1,0 +1,20 @@
+[31/12/2023 01:29:55] Verificando a solicitação...
+[31/12/2023 04:07:34] Verificando a solicitação...
+[31/12/2023 04:07:34] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "Monique cavalieri lemos"
+  ["cpf"]=>
+  string(11) "03255775604"
+  ["email"]=>
+  string(28) "moniquecavalieri@hotmail.com"
+  ["placa"]=>
+  string(7) "Hge4e48"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[31/12/2023 11:19:58] Verificando a solicitação...

@@ -1,0 +1,97 @@
+[08/02/2025 05:18:33] Verificando a solicitação...
+[08/02/2025 06:50:50] Verificando a solicitação...
+[08/02/2025 12:15:54] Verificando a solicitação...
+[08/02/2025 12:15:54] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(33) "Joice Fernandes Dos Santos Soares"
+  ["cpf"]=>
+  string(11) "01472102673"
+  ["email"]=>
+  string(29) "beatrizwalnei.joice@gmail.com"
+  ["placa"]=>
+  string(7) "FLL4G15"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[08/02/2025 12:58:05] Verificando a solicitação...
+[08/02/2025 12:58:05] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(21) "Diego Fernandes Dutra"
+  ["cpf"]=>
+  string(11) "07350909632"
+  ["email"]=>
+  string(21) "diegofdutra@gmail.com"
+  ["placa"]=>
+  string(7) "PXB8C03"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[08/02/2025 03:02:17] Verificando a solicitação...
+[08/02/2025 03:19:17] Verificando a solicitação...
+[08/02/2025 03:19:23] Verificando a solicitação...
+[08/02/2025 06:17:27] Verificando a solicitação...
+[08/02/2025 06:17:27] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(12) "Marlon Lima "
+  ["cpf"]=>
+  string(11) "03212147652"
+  ["email"]=>
+  string(24) "marlonarlen@yahoo.com.br"
+  ["placa"]=>
+  string(7) "OQM3I46"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[08/02/2025 09:38:41] Verificando a solicitação...
+[08/02/2025 10:55:21] Verificando a solicitação...
+[08/02/2025 10:55:21] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(32) "Sílvia Helena de Souza e Silva "
+  ["cpf"]=>
+  string(15) "612.287.966-53 "
+  ["email"]=>
+  string(31) "silviahelena.souza@yahoo.com.br"
+  ["placa"]=>
+  string(8) "OPF 8733"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[08/02/2025 11:18:27] Verificando a solicitação...
+[08/02/2025 11:19:50] Verificando a solicitação...
+[08/02/2025 11:19:50] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(12) "Léia Farias"
+  ["cpf"]=>
+  string(11) "05222074641"
+  ["email"]=>
+  string(19) "euleia@yahoo.com.br"
+  ["placa"]=>
+  string(7) "Pzm7618"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+

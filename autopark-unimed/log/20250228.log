@@ -1,0 +1,99 @@
+[28/02/2025 05:10:33] Verificando a solicitação...
+[28/02/2025 05:34:26] Verificando a solicitação...
+[28/02/2025 12:12:52] Verificando a solicitação...
+[28/02/2025 12:12:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(36) "luciana amaral rodrigues de carvalho"
+  ["cpf"]=>
+  string(14) "069.998.666-43"
+  ["email"]=>
+  string(28) "luciana.arcarvalho@gmail.com"
+  ["placa"]=>
+  string(8) "OXJ3649 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[28/02/2025 12:13:51] Verificando a solicitação...
+[28/02/2025 12:13:51] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(32) "Wanderley pereira de carvalho jr"
+  ["cpf"]=>
+  string(14) "056.211.926-48"
+  ["email"]=>
+  string(28) "luciana.arcarvalho@gmail.com"
+  ["placa"]=>
+  string(7) "ruf9h85"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[28/02/2025 12:27:31] Verificando a solicitação...
+[28/02/2025 12:27:31] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(19) "Ana Cristina Vieira"
+  ["cpf"]=>
+  string(11) "92361137615"
+  ["email"]=>
+  string(27) "Marcelonovesantos@gmail.com"
+  ["placa"]=>
+  string(7) "Hmo7240"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[28/02/2025 12:51:55] Verificando a solicitação...
+[28/02/2025 01:57:28] Verificando a solicitação...
+[28/02/2025 02:08:22] Verificando a solicitação...
+[28/02/2025 02:29:29] Verificando a solicitação...
+[28/02/2025 04:41:52] Verificando a solicitação...
+[28/02/2025 04:59:49] Verificando a solicitação...
+[28/02/2025 04:59:49] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(22) "Magna Neuza dos Santos"
+  ["cpf"]=>
+  string(11) "03229311698"
+  ["email"]=>
+  string(22) "magnaneuza@hotmail.com"
+  ["placa"]=>
+  string(7) "QPT8E84"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[28/02/2025 07:07:35] Verificando a solicitação...
+[28/02/2025 07:07:35] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "Silvia Beatriz Carajá "
+  ["cpf"]=>
+  string(15) "065.677.016-33 "
+  ["email"]=>
+  string(24) "silviacaraja@hotmail.com"
+  ["placa"]=>
+  string(8) "RNX8I92 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "1"
+  }
+}
+
+[28/02/2025 10:51:48] Verificando a solicitação...
+[28/02/2025 11:36:43] Verificando a solicitação...

@@ -1,0 +1,57 @@
+[24/02/2024 01:15:45] Verificando a solicitação...
+[24/02/2024 10:13:49] Verificando a solicitação...
+[24/02/2024 01:26:24] Verificando a solicitação...
+[24/02/2024 07:02:58] Verificando a solicitação...
+[24/02/2024 07:02:58] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "Thais Condé de Oliveira "
+  ["cpf"]=>
+  string(14) "063.260.516-22"
+  ["email"]=>
+  string(22) "taisconde@yahoo.com.br"
+  ["placa"]=>
+  string(7) "Own9794"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[24/02/2024 08:10:00] Verificando a solicitação...
+[24/02/2024 08:10:00] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(16) "Fausto Cerqueira"
+  ["cpf"]=>
+  string(11) "13432028687"
+  ["email"]=>
+  string(18) "faustoec@gmail.com"
+  ["placa"]=>
+  string(7) "OQK6017"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[24/02/2024 10:18:41] Verificando a solicitação...
+[24/02/2024 10:18:41] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(27) "Heleonir Geraldo Rodrigues "
+  ["cpf"]=>
+  string(14) "276.241.376-15"
+  ["email"]=>
+  string(21) "helleonir@hotmail.com"
+  ["placa"]=>
+  string(8) "Lhe 9539"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+

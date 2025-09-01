@@ -1,0 +1,273 @@
+[11/05/2024 01:37:14] Verificando a solicitação...
+[11/05/2024 01:37:14] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "Efigênia das Dores Lopes "
+  ["cpf"]=>
+  string(11) "00361742622"
+  ["email"]=>
+  string(25) "frances.lopes73@gmail.com"
+  ["placa"]=>
+  string(8) "FKV 3197"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[11/05/2024 01:37:17] abgsoft-autopark-unimed.php
+string(105) "cURL error 7: Failed to connect to sys.autopark.com.br port 443 after 3007 ms: Couldn't connect to server"
+
+[11/05/2024 09:12:10] Verificando a solicitação...
+[11/05/2024 09:12:10] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(21) "Douglas Alves Rezende"
+  ["cpf"]=>
+  string(11) "06677239608"
+  ["email"]=>
+  string(27) "Rezende.douglas@outlook.com"
+  ["placa"]=>
+  string(7) "Puj4304"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[11/05/2024 09:12:13] abgsoft-autopark-unimed.php
+string(105) "cURL error 7: Failed to connect to sys.autopark.com.br port 443 after 3009 ms: Couldn't connect to server"
+
+[11/05/2024 09:22:30] Verificando a solicitação...
+[11/05/2024 09:22:30] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(21) "douglas alves rezende"
+  ["cpf"]=>
+  string(11) "06677239608"
+  ["email"]=>
+  string(31) "douglas.rezende@unimedbh.com.br"
+  ["placa"]=>
+  string(7) "puj4304"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[11/05/2024 09:22:33] abgsoft-autopark-unimed.php
+string(105) "cURL error 7: Failed to connect to sys.autopark.com.br port 443 after 3009 ms: Couldn't connect to server"
+
+[11/05/2024 09:27:23] Verificando a solicitação...
+[11/05/2024 09:27:23] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(21) "Douglas Alves Rezende"
+  ["cpf"]=>
+  string(11) "06677239608"
+  ["email"]=>
+  string(27) "Rezende.douglas@outlook.com"
+  ["placa"]=>
+  string(7) "Puj4304"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[11/05/2024 09:27:26] abgsoft-autopark-unimed.php
+string(105) "cURL error 7: Failed to connect to sys.autopark.com.br port 443 after 3006 ms: Couldn't connect to server"
+
+[11/05/2024 11:34:57] Verificando a solicitação...
+[11/05/2024 11:34:57] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(19) "Maria Eduarda Lemos"
+  ["cpf"]=>
+  string(11) "13105303600"
+  ["email"]=>
+  string(25) "mariafmlemos@outlook.comm"
+  ["placa"]=>
+  string(7) "Pwh1d22"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[11/05/2024 11:35:00] abgsoft-autopark-unimed.php
+string(105) "cURL error 7: Failed to connect to sys.autopark.com.br port 443 after 3008 ms: Couldn't connect to server"
+
+[11/05/2024 11:39:52] Verificando a solicitação...
+[11/05/2024 11:39:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(19) "Maria Eduarda Lemos"
+  ["cpf"]=>
+  string(11) "13105303600"
+  ["email"]=>
+  string(24) "mariafmlemos@outlook.com"
+  ["placa"]=>
+  string(7) "Pwh1d22"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[11/05/2024 11:39:55] abgsoft-autopark-unimed.php
+string(105) "cURL error 7: Failed to connect to sys.autopark.com.br port 443 after 3008 ms: Couldn't connect to server"
+
+[11/05/2024 01:32:32] Verificando a solicitação...
+[11/05/2024 01:32:32] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(28) "Lucas Coelho Miranda Barbosa"
+  ["cpf"]=>
+  string(11) "13750425647"
+  ["email"]=>
+  string(24) "lucascoelho4@hotmail.com"
+  ["placa"]=>
+  string(7) "GLD6B46"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[11/05/2024 01:32:35] abgsoft-autopark-unimed.php
+string(105) "cURL error 7: Failed to connect to sys.autopark.com.br port 443 after 3009 ms: Couldn't connect to server"
+
+[11/05/2024 01:34:25] Verificando a solicitação...
+[11/05/2024 01:34:25] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(28) "Lucas Coelho Miranda Barbosa"
+  ["cpf"]=>
+  string(11) "13750425647"
+  ["email"]=>
+  string(24) "lucascoelho4@hotmail.com"
+  ["placa"]=>
+  string(7) "GLD6B46"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[11/05/2024 01:34:28] abgsoft-autopark-unimed.php
+string(105) "cURL error 7: Failed to connect to sys.autopark.com.br port 443 after 3007 ms: Couldn't connect to server"
+
+[11/05/2024 01:52:35] Verificando a solicitação...
+[11/05/2024 01:52:35] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(17) "Erica Dias Souza "
+  ["cpf"]=>
+  string(14) "118.935.046-70"
+  ["email"]=>
+  string(29) "erica.dias.caldas@outlook.com"
+  ["placa"]=>
+  string(7) "Puv9726"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[11/05/2024 01:52:39] abgsoft-autopark-unimed.php
+string(105) "cURL error 7: Failed to connect to sys.autopark.com.br port 443 after 3006 ms: Couldn't connect to server"
+
+[11/05/2024 03:15:56] Verificando a solicitação...
+[11/05/2024 03:15:56] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "Thifany Soares de Andrade"
+  ["cpf"]=>
+  string(11) "12716830673"
+  ["email"]=>
+  string(30) "thifanysoaresandrade@gmail.com"
+  ["placa"]=>
+  string(7) "HHU1J60"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[11/05/2024 03:15:59] abgsoft-autopark-unimed.php
+string(105) "cURL error 7: Failed to connect to sys.autopark.com.br port 443 after 3008 ms: Couldn't connect to server"
+
+[11/05/2024 03:27:25] Verificando a solicitação...
+[11/05/2024 03:27:25] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Lucas Coelho Miranda Barbosa "
+  ["cpf"]=>
+  string(11) "13750425647"
+  ["email"]=>
+  string(24) "lucascoelho4@hotmail.com"
+  ["placa"]=>
+  string(7) "Gld6b46"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[11/05/2024 03:27:28] abgsoft-autopark-unimed.php
+string(105) "cURL error 7: Failed to connect to sys.autopark.com.br port 443 after 3007 ms: Couldn't connect to server"
+
+[11/05/2024 05:52:38] Verificando a solicitação...
+[11/05/2024 05:52:38] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "Marcia Paula da Silva Ferreira"
+  ["cpf"]=>
+  string(11) "67697984687"
+  ["email"]=>
+  string(29) "ferreira.marcia0107@gmail.com"
+  ["placa"]=>
+  string(7) "QUS5869"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[11/05/2024 05:52:41] abgsoft-autopark-unimed.php
+string(105) "cURL error 7: Failed to connect to sys.autopark.com.br port 443 after 3007 ms: Couldn't connect to server"
+
+[11/05/2024 05:57:01] Verificando a solicitação...
+[11/05/2024 05:57:01] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(15) "Marcia Ferreira"
+  ["cpf"]=>
+  string(14) "676.979.846-87"
+  ["email"]=>
+  string(29) "ferreira.marcia0107@gmail.com"
+  ["placa"]=>
+  string(7) "QUS5869"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[11/05/2024 05:57:04] abgsoft-autopark-unimed.php
+string(105) "cURL error 7: Failed to connect to sys.autopark.com.br port 443 after 3006 ms: Couldn't connect to server"
+

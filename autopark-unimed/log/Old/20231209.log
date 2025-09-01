@@ -1,0 +1,111 @@
+[09/12/2023 04:59:08] Verificando a solicitação...
+[09/12/2023 12:12:21] Verificando a solicitação...
+[09/12/2023 12:12:21] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "Noemia Farias dos Santos "
+  ["cpf"]=>
+  string(15) "224.283.645-53 "
+  ["email"]=>
+  string(25) "noemiafarias@yahoo.com.br"
+  ["placa"]=>
+  string(8) "OQI3485 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[09/12/2023 12:56:18] Verificando a solicitação...
+[09/12/2023 12:56:18] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(22) "laercio mendes de lima"
+  ["cpf"]=>
+  string(14) "955.839.206-53"
+  ["email"]=>
+  string(24) "laerciosilva52@gmail.com"
+  ["placa"]=>
+  string(7) "HBR7065"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[09/12/2023 02:01:20] Verificando a solicitação...
+[09/12/2023 02:01:20] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(27) "Alexandre Marques Monteiro "
+  ["cpf"]=>
+  string(15) "046.195.436-24 "
+  ["email"]=>
+  string(32) "alexandre_monteiro.m@hotmail.com"
+  ["placa"]=>
+  string(7) "QQF4207"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+
+[09/12/2023 02:34:09] Verificando a solicitação...
+[09/12/2023 02:34:09] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(15) "Kelli Cristina "
+  ["cpf"]=>
+  string(11) "01345383665"
+  ["email"]=>
+  string(26) "Kpereiracristina@gmail.com"
+  ["placa"]=>
+  string(7) "HBJ1877"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[09/12/2023 02:41:57] Verificando a solicitação...
+[09/12/2023 08:05:46] Verificando a solicitação...
+[09/12/2023 08:05:46] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "Liliane Cristina Mota da Silva"
+  ["cpf"]=>
+  string(11) "66524490649"
+  ["email"]=>
+  string(30) "Liliane_cristinams@hotmail.com"
+  ["placa"]=>
+  string(7) "OPA7I85"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[09/12/2023 08:53:32] Verificando a solicitação...
+[09/12/2023 10:59:11] Verificando a solicitação...
+[09/12/2023 10:59:11] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(24) "Jorgeane Ferreira Peres "
+  ["cpf"]=>
+  string(14) "036.483.126-00"
+  ["email"]=>
+  string(25) "jorgeaneperes@hotmail.com"
+  ["placa"]=>
+  string(7) "QQG7372"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "4"
+  }
+}
+

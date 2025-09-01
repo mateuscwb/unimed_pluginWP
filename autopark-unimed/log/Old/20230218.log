@@ -1,0 +1,19 @@
+[18/02/2023 12:36:49] Verificando a solicitação...
+[18/02/2023 12:36:49] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(33) "Alexssander Porto Oliveira Borges"
+  ["cpf"]=>
+  string(11) "11854968661"
+  ["email"]=>
+  string(29) "alexssander.porto@outlook.com"
+  ["placa"]=>
+  string(7) "PZQ2E60"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[18/02/2023 10:42:48] Verificando a solicitação...

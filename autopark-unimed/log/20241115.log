@@ -1,0 +1,21 @@
+[15/11/2024 07:28:56] Verificando a solicitação...
+[15/11/2024 09:58:00] Verificando a solicitação...
+[15/11/2024 09:58:00] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(8) "Priscila"
+  ["cpf"]=>
+  string(11) "08425170656"
+  ["email"]=>
+  string(27) "priscillapraddo@hotmail.com"
+  ["placa"]=>
+  string(7) "Awj3c68"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[15/11/2024 01:53:00] Verificando a solicitação...
+[15/11/2024 07:25:13] Verificando a solicitação...

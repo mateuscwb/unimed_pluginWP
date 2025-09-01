@@ -1,0 +1,578 @@
+[30/08/2023 12:35:41] Verificando a solicitação...
+[30/08/2023 12:35:41] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(6) "Debora"
+  ["cpf"]=>
+  string(14) "118.738.546-84"
+  ["email"]=>
+  string(21) "deresendedw@gmail.com"
+  ["placa"]=>
+  string(7) "ORC8F71"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+
+[30/08/2023 01:40:52] Verificando a solicitação...
+[30/08/2023 01:40:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(27) "Keiliani Stelle Gonçalves "
+  ["cpf"]=>
+  string(11) "12527330622"
+  ["email"]=>
+  string(24) "keilianistelle@gmail.com"
+  ["placa"]=>
+  string(7) "HGW2612"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[30/08/2023 09:57:03] Verificando a solicitação...
+[30/08/2023 09:57:03] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(20) "Glaucia Alves Sandes"
+  ["cpf"]=>
+  string(11) "07439011694"
+  ["email"]=>
+  string(26) "glaucia-sandes@hotmail.com"
+  ["placa"]=>
+  string(7) "PVA1E09"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[30/08/2023 11:03:11] Verificando a solicitação...
+[30/08/2023 11:03:11] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(21) "silvia roberta vieira"
+  ["cpf"]=>
+  string(14) "012.170.596-01"
+  ["email"]=>
+  string(22) "silvinha.r@hotmail.com"
+  ["placa"]=>
+  string(7) "RTC3D49"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[30/08/2023 11:03:13] Verificando a solicitação...
+[30/08/2023 11:03:13] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Fabiana Paes Elvas Januário "
+  ["cpf"]=>
+  string(14) "085.350.406-76"
+  ["email"]=>
+  string(25) "fabianapaes24@hotmail.com"
+  ["placa"]=>
+  string(7) "RMP6H81"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[30/08/2023 11:32:15] Verificando a solicitação...
+[30/08/2023 11:32:15] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(12) "Pietro Artur"
+  ["cpf"]=>
+  string(11) "10495167614"
+  ["email"]=>
+  string(24) "pietroartur@yahoo.com.br"
+  ["placa"]=>
+  string(7) "puf9958"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[30/08/2023 12:01:11] Verificando a solicitação...
+[30/08/2023 12:01:11] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(24) "Juliana Nogueira Machado"
+  ["cpf"]=>
+  string(14) "036.070.416-60"
+  ["email"]=>
+  string(24) "josimarluis@yahoo.com.br"
+  ["placa"]=>
+  string(7) "ges7a88"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[30/08/2023 12:11:54] Verificando a solicitação...
+[30/08/2023 12:11:54] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(35) "Andressa de libero Freitas salgado "
+  ["cpf"]=>
+  string(11) "05859699654"
+  ["email"]=>
+  string(24) "andressalibero@gmail.com"
+  ["placa"]=>
+  string(7) "Hfu5458"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[30/08/2023 12:33:07] Verificando a solicitação...
+[30/08/2023 12:33:07] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(21) "Douglas Harison Cesar"
+  ["cpf"]=>
+  string(11) "85859036604"
+  ["email"]=>
+  string(25) "harisoncesar@yahoo.com.br"
+  ["placa"]=>
+  string(7) "QXS1C74"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[30/08/2023 12:35:54] Verificando a solicitação...
+[30/08/2023 12:35:54] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(18) "Ana Maria da Silva"
+  ["cpf"]=>
+  string(11) "76765105620"
+  ["email"]=>
+  string(18) "clio.ana@gmail.com"
+  ["placa"]=>
+  string(7) "PVJ9859"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[30/08/2023 01:08:52] Verificando a solicitação...
+[30/08/2023 01:08:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(19) "Vanessa Gonçalves "
+  ["cpf"]=>
+  string(11) "05531068646"
+  ["email"]=>
+  string(29) "goncalvesvanessa@yahoo.com.br"
+  ["placa"]=>
+  string(7) "Hmz4409"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[30/08/2023 01:26:33] Verificando a solicitação...
+[30/08/2023 01:26:33] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(31) "SILVIA DE OLIVEIRA BIRCHAL AZAR"
+  ["cpf"]=>
+  string(11) "29705010668"
+  ["email"]=>
+  string(23) "silviabirchal@gmail.com"
+  ["placa"]=>
+  string(7) "SHJ5B67"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[30/08/2023 01:44:22] Verificando a solicitação...
+[30/08/2023 01:44:22] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(32) "Ivolino Gonçalves de Souza Neto"
+  ["cpf"]=>
+  string(14) "110.896.226-27"
+  ["email"]=>
+  string(23) "ivo.junior_@hotmail.com"
+  ["placa"]=>
+  string(7) "PWD5E18"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+
+[30/08/2023 01:58:05] Verificando a solicitação...
+[30/08/2023 01:58:05] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "Valéria do Rosário Pires"
+  ["cpf"]=>
+  string(14) "957.711.156-49"
+  ["email"]=>
+  string(25) "valeriarpires@yahoo.co.br"
+  ["placa"]=>
+  string(7) "HMB4756"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[30/08/2023 02:02:01] Verificando a solicitação...
+[30/08/2023 02:02:01] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(24) "Kenio Victor Mascarenhas"
+  ["cpf"]=>
+  string(11) "14469938688"
+  ["email"]=>
+  string(22) "alenunes76@hotmail.com"
+  ["placa"]=>
+  string(7) "Rfk3D62"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+
+[30/08/2023 02:07:32] Verificando a solicitação...
+[30/08/2023 02:07:32] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "LETICIA JORDAO ROCHA CARVALHO"
+  ["cpf"]=>
+  string(11) "14990950666"
+  ["email"]=>
+  string(22) "leticiajrc@hotmail.com"
+  ["placa"]=>
+  string(7) "PMP3D90"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+
+[30/08/2023 02:07:52] Verificando a solicitação...
+[30/08/2023 02:07:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "LETICIA JORDAO ROCHA CARVALHO"
+  ["cpf"]=>
+  string(11) "14990950666"
+  ["email"]=>
+  string(22) "leticiajrc@hotmail.com"
+  ["placa"]=>
+  string(7) "PMP3D90"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+
+[30/08/2023 02:14:45] Verificando a solicitação...
+[30/08/2023 02:58:41] Verificando a solicitação...
+[30/08/2023 02:58:41] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(33) "Claudia conceição de Souza MOTA"
+  ["cpf"]=>
+  string(14) "055.104.296-66"
+  ["email"]=>
+  string(23) "claudiacsmota@gmail.com"
+  ["placa"]=>
+  string(7) "HDS8120"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[30/08/2023 03:44:52] Verificando a solicitação...
+[30/08/2023 03:44:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(6) "Carlos"
+  ["cpf"]=>
+  string(11) "02645837603"
+  ["email"]=>
+  string(23) "cfred.azevedo@gmail.com"
+  ["placa"]=>
+  string(7) "Gzm9889"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[30/08/2023 03:46:02] Verificando a solicitação...
+[30/08/2023 03:46:02] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(18) "Ana Paula de Souza"
+  ["cpf"]=>
+  string(11) "02864157632"
+  ["email"]=>
+  string(21) "anapsoza@yahoo.com.br"
+  ["placa"]=>
+  string(7) "HFW9706"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[30/08/2023 03:47:00] Verificando a solicitação...
+[30/08/2023 03:47:00] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(13) "Soraya Souza "
+  ["cpf"]=>
+  string(14) "059.815.526-03"
+  ["email"]=>
+  string(25) "solynhasouza@yahoo.com.br"
+  ["placa"]=>
+  string(7) "HDQ5H43"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[30/08/2023 03:59:04] Verificando a solicitação...
+[30/08/2023 03:59:04] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Paola Maria Amorim Rodrigues "
+  ["cpf"]=>
+  string(11) "01909313610"
+  ["email"]=>
+  string(23) "paolamaria86@icloud.com"
+  ["placa"]=>
+  string(8) "QSP-1A90"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "1"
+  }
+}
+
+[30/08/2023 04:40:23] Verificando a solicitação...
+[30/08/2023 04:40:23] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "Daniela Israel Gonçalves "
+  ["cpf"]=>
+  string(11) "05052593627"
+  ["email"]=>
+  string(25) "danielaisrael@outlook.com"
+  ["placa"]=>
+  string(7) "RVF3C63"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[30/08/2023 05:42:19] Verificando a solicitação...
+[30/08/2023 05:42:19] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(24) "Diego Abranjo Figueiredo"
+  ["cpf"]=>
+  string(11) "09334565659"
+  ["email"]=>
+  string(32) "diego.moveisfigueiredo@gmail.com"
+  ["placa"]=>
+  string(7) "HHZ1F10"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[30/08/2023 05:49:55] Verificando a solicitação...
+[30/08/2023 06:23:22] Verificando a solicitação...
+[30/08/2023 06:23:22] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(28) "Elisangela Marcolino França"
+  ["cpf"]=>
+  string(11) "05037448670"
+  ["email"]=>
+  string(19) "elismf@yahoo.com.br"
+  ["placa"]=>
+  string(7) "MOT5B51"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[30/08/2023 06:49:32] Verificando a solicitação...
+[30/08/2023 06:49:32] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(18) "TATIANA SILVA MELO"
+  ["cpf"]=>
+  string(11) "01659887623"
+  ["email"]=>
+  string(30) "tatianameloorganizer@gmail.com"
+  ["placa"]=>
+  string(7) "oqy5055"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[30/08/2023 06:59:33] Verificando a solicitação...
+[30/08/2023 06:59:33] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(20) "FABIO ÁVILA DA CRUZ"
+  ["cpf"]=>
+  string(14) "050.936.496-94"
+  ["email"]=>
+  string(21) "FABIOAVC@YAHOO.COM.BR"
+  ["placa"]=>
+  string(7) "OWP9253"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+
+[30/08/2023 07:05:09] Verificando a solicitação...
+[30/08/2023 07:05:09] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(31) "FREDERICO DUARTE PEREIRA SOARES"
+  ["cpf"]=>
+  string(14) "419.846.506-10"
+  ["email"]=>
+  string(25) "ffrederico19611@gmail.com"
+  ["placa"]=>
+  string(7) "HMB1111"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[30/08/2023 07:10:10] Verificando a solicitação...
+[30/08/2023 07:10:10] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "danielle de abreu souza"
+  ["cpf"]=>
+  string(11) "13382674696"
+  ["email"]=>
+  string(25) "abreudanielle97@gmail.com"
+  ["placa"]=>
+  string(7) "HCD2J53"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[30/08/2023 09:18:55] Verificando a solicitação...
+[30/08/2023 09:18:55] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(27) "Gilberto ferreira da Silva "
+  ["cpf"]=>
+  string(11) "79515223687"
+  ["email"]=>
+  string(27) "pontovisaoexpress@gmail.com"
+  ["placa"]=>
+  string(7) "OOW3069"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[30/08/2023 09:20:03] Verificando a solicitação...
+[30/08/2023 09:20:03] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(27) "Gilberto ferreira da Silva "
+  ["cpf"]=>
+  string(11) "79515223687"
+  ["email"]=>
+  string(27) "pontovisaoexpress@gmail.com"
+  ["placa"]=>
+  string(7) "OOW3069"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[30/08/2023 10:05:11] Verificando a solicitação...
+[30/08/2023 10:05:11] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(31) "Jéssica Paula Arraes Rodrigues"
+  ["cpf"]=>
+  string(11) "09952580665"
+  ["email"]=>
+  string(26) "jessicaarraes@yahoo.com.br"
+  ["placa"]=>
+  string(7) "OLS1484"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+

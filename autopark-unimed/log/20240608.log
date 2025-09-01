@@ -1,0 +1,21 @@
+[08/06/2024 01:03:29] Verificando a solicitação...
+[08/06/2024 01:03:29] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(27) "Giovanna Cristina Haussmann"
+  ["cpf"]=>
+  string(14) "758.377.146-34"
+  ["email"]=>
+  string(24) "giovannacah@yahoo.com.br"
+  ["placa"]=>
+  string(8) "QSF5A94 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[08/06/2024 11:36:22] Verificando a solicitação...
+[08/06/2024 02:45:29] Verificando a solicitação...
+[08/06/2024 04:59:00] Verificando a solicitação...

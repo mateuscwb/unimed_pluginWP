@@ -1,0 +1,147 @@
+[23/12/2023 10:28:23] Verificando a solicitação...
+[23/12/2023 10:28:23] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "Marlucia da Rocha e silva"
+  ["cpf"]=>
+  string(11) "64945251649"
+  ["email"]=>
+  string(22) "rochaesilvam@gmail.com"
+  ["placa"]=>
+  string(7) "Hef8939"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[23/12/2023 10:31:48] Verificando a solicitação...
+[23/12/2023 10:31:48] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "MARLUCIA DA ROCHA E SILVA "
+  ["cpf"]=>
+  string(15) "649.452.516-49 "
+  ["email"]=>
+  string(22) "rochaesilvam@gmail.com"
+  ["placa"]=>
+  string(8) "HEF8939 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[23/12/2023 10:38:01] Verificando a solicitação...
+[23/12/2023 10:38:01] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "MARLUCIA DA ROCHA E SILVA "
+  ["cpf"]=>
+  string(15) "649.452.516-49 "
+  ["email"]=>
+  string(22) "rochaesilvam@gmail.com"
+  ["placa"]=>
+  string(8) "HEF8939 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[23/12/2023 11:08:09] Verificando a solicitação...
+[23/12/2023 11:08:09] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "MARLUCIA DA ROCHA E SILVA"
+  ["cpf"]=>
+  string(14) "649.452.516-49"
+  ["email"]=>
+  string(22) "rochaesilvam@gmail.com"
+  ["placa"]=>
+  string(7) "HEF8939"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[23/12/2023 11:27:31] Verificando a solicitação...
+[23/12/2023 11:27:31] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "RED REDNEY ALVES BASTOS"
+  ["cpf"]=>
+  string(11) "76096360610"
+  ["email"]=>
+  string(23) "redneyalves@hotmail.com"
+  ["placa"]=>
+  string(7) "HEF8939"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[23/12/2023 11:44:34] Verificando a solicitação...
+[23/12/2023 11:44:34] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "Marlucia da Rocha e silva"
+  ["cpf"]=>
+  string(11) "64945251649"
+  ["email"]=>
+  string(22) "rochaesilvam@gmail.com"
+  ["placa"]=>
+  string(7) "Hef8939"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[23/12/2023 11:55:08] Verificando a solicitação...
+[23/12/2023 11:55:08] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "MARLUCIA DA ROCHA E SILVA"
+  ["cpf"]=>
+  string(14) "649.452.516-49"
+  ["email"]=>
+  string(22) "rochaesilvam@gmail.com"
+  ["placa"]=>
+  string(7) "HEF8939"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[23/12/2023 12:06:19] Verificando a solicitação...
+[23/12/2023 12:06:19] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(6) "Carla "
+  ["cpf"]=>
+  string(11) "04823016602"
+  ["email"]=>
+  string(28) "carlasaturninodias@gmail.com"
+  ["placa"]=>
+  string(7) "Pyc3b70"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[23/12/2023 01:09:51] Verificando a solicitação...
+[23/12/2023 07:52:24] Verificando a solicitação...
+[23/12/2023 08:49:48] Verificando a solicitação...

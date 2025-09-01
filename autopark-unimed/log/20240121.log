@@ -1,0 +1,38 @@
+[21/01/2024 03:23:04] Verificando a solicitação...
+[21/01/2024 11:21:47] Verificando a solicitação...
+[21/01/2024 02:20:23] Verificando a solicitação...
+[21/01/2024 02:20:23] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(21) "Bráulio Rabelo Silva"
+  ["cpf"]=>
+  string(11) "06852576655"
+  ["email"]=>
+  string(31) "brauliorabelosilva@yahoo.com.br"
+  ["placa"]=>
+  string(7) "QNJ5795"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[21/01/2024 03:25:18] Verificando a solicitação...
+[21/01/2024 03:25:18] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(20) "Mariana Petry Cabral"
+  ["cpf"]=>
+  string(14) "900.969.750-91"
+  ["email"]=>
+  string(22) "nanacabral75@gmail.com"
+  ["placa"]=>
+  string(8) "QOC 9328"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+

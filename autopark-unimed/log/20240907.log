@@ -1,0 +1,111 @@
+[07/09/2024 11:22:38] Verificando a solicitação...
+[07/09/2024 01:11:07] Verificando a solicitação...
+[07/09/2024 01:11:07] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(21) "Vanderlei Costa Sousa"
+  ["cpf"]=>
+  string(14) "071.436.226-30"
+  ["email"]=>
+  string(28) "vanderleisousa9428@gmail.com"
+  ["placa"]=>
+  string(7) "DYA4A83"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[07/09/2024 04:18:24] Verificando a solicitação...
+[07/09/2024 05:26:02] Verificando a solicitação...
+[07/09/2024 05:26:02] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(31) "Patrícia Moreira Passos Viana "
+  ["cpf"]=>
+  string(11) "85931543600"
+  ["email"]=>
+  string(29) "patriciamoreira0971@gmail.com"
+  ["placa"]=>
+  string(7) "OXJ7F30"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+
+[07/09/2024 05:28:00] Verificando a solicitação...
+[07/09/2024 07:40:59] Verificando a solicitação...
+[07/09/2024 07:40:59] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(33) "Ana Paula Rodrigues da Cruz Silva"
+  ["cpf"]=>
+  string(11) "05256632663"
+  ["email"]=>
+  string(21) "anaped01@yahoo.com.br"
+  ["placa"]=>
+  string(7) "Shd2i40"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[07/09/2024 07:41:58] Verificando a solicitação...
+[07/09/2024 07:41:58] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(33) "Ana Paula Rodrigues da Cruz Silva"
+  ["cpf"]=>
+  string(11) "05256632663"
+  ["email"]=>
+  string(21) "anaped01@yahoo.com.br"
+  ["placa"]=>
+  string(7) "Shd2i40"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[07/09/2024 09:37:37] Verificando a solicitação...
+[07/09/2024 09:37:37] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(16) "Adrian Henrique "
+  ["cpf"]=>
+  string(11) "15724364689"
+  ["email"]=>
+  string(30) "adrianparreiras22@yahoo.com.br"
+  ["placa"]=>
+  string(7) "Pzm6499"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+
+[07/09/2024 10:21:03] Verificando a solicitação...
+[07/09/2024 10:21:03] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(35) "Elizabeth Márcia Irias Gonçalves "
+  ["cpf"]=>
+  string(14) "486.290.226-04"
+  ["email"]=>
+  string(31) "beth_coracaodemaria@hotmail.com"
+  ["placa"]=>
+  string(8) "QWU2573 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+

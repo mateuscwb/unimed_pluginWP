@@ -1,0 +1,199 @@
+[09/09/2023 12:10:28] Verificando a solicitação...
+[09/09/2023 12:10:28] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(35) "Lorelay Renata Damasceno Dos Santos"
+  ["cpf"]=>
+  string(14) "901.675.626-49"
+  ["email"]=>
+  string(24) "lorelayrenata1@gmail.com"
+  ["placa"]=>
+  string(7) "HFN4604"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[09/09/2023 12:54:09] Verificando a solicitação...
+[09/09/2023 12:54:09] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "maria geralda de toledo"
+  ["cpf"]=>
+  string(14) "324.771.806-06"
+  ["email"]=>
+  string(19) "videl.pri@gmail.com"
+  ["placa"]=>
+  string(7) "hgg8996"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[09/09/2023 02:06:02] Verificando a solicitação...
+[09/09/2023 02:06:02] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(22) "Caroline Santos Viana "
+  ["cpf"]=>
+  string(11) "10654769656"
+  ["email"]=>
+  string(26) "carol.s.vianna80@gmail.com"
+  ["placa"]=>
+  string(7) "HIC5980"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[09/09/2023 03:33:11] Verificando a solicitação...
+[09/09/2023 11:08:52] Verificando a solicitação...
+[09/09/2023 11:08:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(22) "Caroline Santos Viana "
+  ["cpf"]=>
+  string(11) "10654769656"
+  ["email"]=>
+  string(26) "carol.s.vianna80@gmail.com"
+  ["placa"]=>
+  string(7) "HIC5980"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[09/09/2023 03:10:21] Verificando a solicitação...
+[09/09/2023 03:10:21] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(43) "Antonio Eustaquio Siqueira Othero Fernandes"
+  ["cpf"]=>
+  string(11) "66678986687"
+  ["email"]=>
+  string(27) "antonio.othero@yahoo.com.br"
+  ["placa"]=>
+  string(7) "EIZ9288"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[09/09/2023 03:15:21] Verificando a solicitação...
+[09/09/2023 03:15:21] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(46) "Ana Carolina Machado de Almeida e Sousa Rabelo"
+  ["cpf"]=>
+  string(14) "101.926.636-82"
+  ["email"]=>
+  string(22) "carol.machado@live.com"
+  ["placa"]=>
+  string(7) "OWO3279"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[09/09/2023 03:48:52] Verificando a solicitação...
+[09/09/2023 03:48:52] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "MONIK KELLY DOS REIS RODRIGUES"
+  ["cpf"]=>
+  string(14) "063.064.236-21"
+  ["email"]=>
+  string(24) "monikkellyreis@gmail.com"
+  ["placa"]=>
+  string(7) "owi2414"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[09/09/2023 04:13:37] Verificando a solicitação...
+[09/09/2023 04:13:37] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(27) "Giovanna Cristina Haussmann"
+  ["cpf"]=>
+  string(11) "75837714634"
+  ["email"]=>
+  string(24) "giovannacah@yahoo.com.br"
+  ["placa"]=>
+  string(7) "QSF5A94"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[09/09/2023 04:48:37] Verificando a solicitação...
+[09/09/2023 04:48:37] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(19) "Camila Lemes Alves "
+  ["cpf"]=>
+  string(11) "13029411605"
+  ["email"]=>
+  string(29) "camilalemesalvees@outlook.com"
+  ["placa"]=>
+  string(7) "Pzh7e28"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "1"
+  }
+}
+
+[09/09/2023 11:54:58] Verificando a solicitação...
+[09/09/2023 11:54:58] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "Milton  Flávio  da Silva "
+  ["cpf"]=>
+  string(14) "155.498.526-91"
+  ["email"]=>
+  string(24) "miltoncontrole@gmail.com"
+  ["placa"]=>
+  string(7) "RJJ2C83"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[09/09/2023 11:55:21] Verificando a solicitação...
+[09/09/2023 11:55:21] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "Milton  Flávio  da Silva "
+  ["cpf"]=>
+  string(14) "155.498.526-91"
+  ["email"]=>
+  string(24) "miltoncontrole@gmail.com"
+  ["placa"]=>
+  string(7) "RJJ2C83"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+

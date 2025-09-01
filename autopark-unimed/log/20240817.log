@@ -1,0 +1,112 @@
+[17/08/2024 01:19:53] Verificando a solicitação...
+[17/08/2024 06:27:54] Verificando a solicitação...
+[17/08/2024 09:42:16] Verificando a solicitação...
+[17/08/2024 09:42:16] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "Jean Rodrigo Luis da Silva"
+  ["cpf"]=>
+  string(14) "097.728.366-61"
+  ["email"]=>
+  string(25) "jeansilva.eng@outlook.com"
+  ["placa"]=>
+  string(7) "SIR2B36"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[17/08/2024 10:17:13] Verificando a solicitação...
+[17/08/2024 12:27:38] Verificando a solicitação...
+[17/08/2024 12:27:38] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(22) "MILTON FLAVIO DA SILVA"
+  ["cpf"]=>
+  string(11) "15549852691"
+  ["email"]=>
+  string(26) "miltonletro17@yahoo.com.br"
+  ["placa"]=>
+  string(7) "RJJ2C83"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[17/08/2024 12:57:24] Verificando a solicitação...
+[17/08/2024 12:57:24] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "Paula Angelica dos Santos "
+  ["cpf"]=>
+  string(14) "891.777.036-34"
+  ["email"]=>
+  string(26) "paulaangelicas45@gmail.com"
+  ["placa"]=>
+  string(7) "PVO5F54"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/08/2024 03:35:51] Verificando a solicitação...
+[17/08/2024 03:59:07] Verificando a solicitação...
+[17/08/2024 03:59:07] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(18) "LILIANE S M ARAUJO"
+  ["cpf"]=>
+  string(14) "044.755.516-25"
+  ["email"]=>
+  string(24) "lilianedisanti@gmail.com"
+  ["placa"]=>
+  string(7) "PVW8565"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/08/2024 04:45:17] Verificando a solicitação...
+[17/08/2024 04:45:17] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(17) "Rubia Assis Inez "
+  ["cpf"]=>
+  string(11) "11123033676"
+  ["email"]=>
+  string(27) "contatorubiaassis@gmail.com"
+  ["placa"]=>
+  string(7) "HNE7706"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[17/08/2024 09:53:46] Verificando a solicitação...
+[17/08/2024 09:53:46] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(22) "jose aloisio g pereira"
+  ["cpf"]=>
+  string(14) "099.034.611-00"
+  ["email"]=>
+  string(18) "gaiacipo@gmail.com"
+  ["placa"]=>
+  string(7) "Pzb0g09"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+

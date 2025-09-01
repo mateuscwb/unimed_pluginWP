@@ -1,0 +1,190 @@
+[26/07/2024 12:56:42] Verificando a solicitação...
+[26/07/2024 02:23:25] Verificando a solicitação...
+[26/07/2024 02:23:25] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "Letícia Macedo Mariano"
+  ["cpf"]=>
+  string(14) "123.713.626-11"
+  ["email"]=>
+  string(22) "lekamacedo20@gmail.com"
+  ["placa"]=>
+  string(7) "GUM5813"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[26/07/2024 03:39:02] Verificando a solicitação...
+[26/07/2024 03:39:27] Verificando a solicitação...
+[26/07/2024 10:49:53] Verificando a solicitação...
+[26/07/2024 10:49:53] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "Silvani de Jesus Braz Moreira"
+  ["cpf"]=>
+  string(11) "63865475604"
+  ["email"]=>
+  string(25) "silvanithales@hotmail.com"
+  ["placa"]=>
+  string(7) "OPI2073"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[26/07/2024 11:22:59] Verificando a solicitação...
+[26/07/2024 11:22:59] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "Silvia Beatriz Carajá "
+  ["cpf"]=>
+  string(15) "065.677.016-33 "
+  ["email"]=>
+  string(24) "silviacaraja@hotmail.com"
+  ["placa"]=>
+  string(8) "RNX8I92 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[26/07/2024 01:10:11] Verificando a solicitação...
+[26/07/2024 01:10:11] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(20) "Tania de Jesus Silva"
+  ["cpf"]=>
+  string(11) "00873011643"
+  ["email"]=>
+  string(21) "tania.197@hotmail.com"
+  ["placa"]=>
+  string(7) "Oke9373"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[26/07/2024 02:52:45] Verificando a solicitação...
+[26/07/2024 02:52:45] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(18) "Agatha Nascimento "
+  ["cpf"]=>
+  string(11) "01456252658"
+  ["email"]=>
+  string(27) "agathapamelabr@yahoo.com.br"
+  ["placa"]=>
+  string(7) "OWZ2554"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[26/07/2024 03:24:47] Verificando a solicitação...
+[26/07/2024 03:44:05] Verificando a solicitação...
+[26/07/2024 03:55:09] Verificando a solicitação...
+[26/07/2024 05:17:37] Verificando a solicitação...
+[26/07/2024 05:17:45] Verificando a solicitação...
+[26/07/2024 05:53:57] Verificando a solicitação...
+[26/07/2024 05:53:57] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(14) "Mônica Santos"
+  ["cpf"]=>
+  string(14) "061.590.296-06"
+  ["email"]=>
+  string(23) "monialesantos@gmail.com"
+  ["placa"]=>
+  string(8) "ORC7504 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[26/07/2024 06:34:55] Verificando a solicitação...
+[26/07/2024 06:34:55] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(15) "Mônica Santos "
+  ["cpf"]=>
+  string(14) "061.590.296-06"
+  ["email"]=>
+  string(23) "monialesantos@gmail.com"
+  ["placa"]=>
+  string(7) "RTC0H06"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[26/07/2024 06:39:50] Verificando a solicitação...
+[26/07/2024 06:39:50] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(34) "Júlio Cézar Teixeira de Oliveira"
+  ["cpf"]=>
+  string(11) "01277225648"
+  ["email"]=>
+  string(21) "jtocezar@yahoo.com.br"
+  ["placa"]=>
+  string(7) "SHT8A26"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[26/07/2024 07:09:56] Verificando a solicitação...
+[26/07/2024 08:28:33] Verificando a solicitação...
+[26/07/2024 08:28:33] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(27) "Luis Henrique R Pierazolli "
+  ["cpf"]=>
+  string(11) "05013155606"
+  ["email"]=>
+  string(26) "luishenrique@coedra.com.br"
+  ["placa"]=>
+  string(7) "Sya6h78"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[26/07/2024 08:38:41] Verificando a solicitação...
+[26/07/2024 08:38:41] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(20) "Evaldo Carlos Araujo"
+  ["cpf"]=>
+  string(11) "02932451693"
+  ["email"]=>
+  string(23) "evaldo.carlos@gmail.com"
+  ["placa"]=>
+  string(7) "HEF9505"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[26/07/2024 09:01:42] Verificando a solicitação...

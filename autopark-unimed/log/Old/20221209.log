@@ -1,0 +1,201 @@
+[09/12/2022 12:01:05] Verificando a solicitação...
+[09/12/2022 12:01:05] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(20) "Renato Arruda Arrais"
+  ["cpf"]=>
+  string(11) "17496651826"
+  ["email"]=>
+  string(24) "arraisrenato77@gmail.com"
+  ["placa"]=>
+  string(7) "RUN5C94"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[09/12/2022 12:21:16] Verificando a solicitação...
+[09/12/2022 12:21:16] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(25) "Rubem Cassiano Patrício "
+  ["cpf"]=>
+  string(11) "07486140608"
+  ["email"]=>
+  string(23) "rubemcassiano@gmail.com"
+  ["placa"]=>
+  string(7) "Rul3h99"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[09/12/2022 09:39:07] Verificando a solicitação...
+[09/12/2022 09:39:07] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(29) "José Ferreira Coelho Júnior"
+  ["cpf"]=>
+  string(11) "54955955649"
+  ["email"]=>
+  string(30) "ferreiracoelhojunior@gmail.com"
+  ["placa"]=>
+  string(7) "Omg3351"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[09/12/2022 10:20:48] Verificando a solicitação...
+[09/12/2022 10:46:02] Verificando a solicitação...
+[09/12/2022 10:46:02] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "Deivisson Pereira de Paula"
+  ["cpf"]=>
+  string(11) "04981417640"
+  ["email"]=>
+  string(24) "deivissonbh@yahoo.com.br"
+  ["placa"]=>
+  string(7) "OPF3660"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+
+[09/12/2022 10:57:19] Verificando a solicitação...
+[09/12/2022 11:54:14] Verificando a solicitação...
+[09/12/2022 11:54:32] Verificando a solicitação...
+[09/12/2022 11:54:32] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "Wagner Medeiros de Freitas"
+  ["cpf"]=>
+  string(11) "05044497614"
+  ["email"]=>
+  string(27) "wagnermfreitas@yahoo.com.br"
+  ["placa"]=>
+  string(7) "Qxl3726"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[09/12/2022 12:29:25] Verificando a solicitação...
+[09/12/2022 12:29:25] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(21) "Ildemir Augusto gomes"
+  ["cpf"]=>
+  string(14) "029.351.536-00"
+  ["email"]=>
+  string(27) "ademiraugusto04@hotmail.com"
+  ["placa"]=>
+  string(7) "OPZ2238"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[09/12/2022 05:37:55] Verificando a solicitação...
+[09/12/2022 05:37:55] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(35) "Maria  da Penha Pereira dos Santos "
+  ["cpf"]=>
+  string(14) "618.078.006-44"
+  ["email"]=>
+  string(29) "mpenhapereirasantos@gmail.com"
+  ["placa"]=>
+  string(7) "Puk3719"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[09/12/2022 06:04:04] Verificando a solicitação...
+[09/12/2022 06:04:04] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(21) "KARINA ARAUJO MELGACO"
+  ["cpf"]=>
+  string(11) "05153429636"
+  ["email"]=>
+  string(25) "karinamelgavo@hotmail.com"
+  ["placa"]=>
+  string(7) "HMA7234"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[09/12/2022 08:09:29] Verificando a solicitação...
+[09/12/2022 08:09:29] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(37) "Joyce Renata de Castro Souza Oliveira"
+  ["cpf"]=>
+  string(11) "03960485603"
+  ["email"]=>
+  string(18) "joycernt@gmail.com"
+  ["placa"]=>
+  string(7) "GYO3096"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
+[09/12/2022 08:28:04] Verificando a solicitação...
+[09/12/2022 08:28:04] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(37) "José Geraldo Hermenegildo de Castro "
+  ["cpf"]=>
+  string(11) "03584878624"
+  ["email"]=>
+  string(18) "jghc17@hotmail.com"
+  ["placa"]=>
+  string(7) "PGJ4875"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "4"
+  }
+}
+
+[09/12/2022 10:28:06] Verificando a solicitação...
+[09/12/2022 10:28:06] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(5) "Kelly"
+  ["cpf"]=>
+  string(11) "09147510682"
+  ["email"]=>
+  string(29) "confusa_rasgado.0d@icloud.com"
+  ["placa"]=>
+  string(7) "PYE7203"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "3"
+  }
+}
+

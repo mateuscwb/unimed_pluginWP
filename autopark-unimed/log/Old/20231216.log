@@ -1,0 +1,55 @@
+[16/12/2023 12:56:41] Verificando a solicitação...
+[16/12/2023 12:56:41] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "Bruno Piere Assunção "
+  ["cpf"]=>
+  string(14) "078.585.556-42"
+  ["email"]=>
+  string(22) "brunopiere87@gmail.com"
+  ["placa"]=>
+  string(7) "Gxz2713"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[16/12/2023 12:58:37] Verificando a solicitação...
+[16/12/2023 12:58:37] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(23) "Bruno Piere Assunção "
+  ["cpf"]=>
+  string(14) "078.585.556-42"
+  ["email"]=>
+  string(22) "brunopiere87@gmail.com"
+  ["placa"]=>
+  string(7) "Gxz2713"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[16/12/2023 04:29:18] Verificando a solicitação...
+[16/12/2023 04:29:18] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(22) "Cristiana Cunha Amaral"
+  ["cpf"]=>
+  string(14) "082.530.336-21"
+  ["email"]=>
+  string(25) "cristianatjmg@hotmail.com"
+  ["placa"]=>
+  string(8) "Oqo 5331"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "1"
+  }
+}
+
+[16/12/2023 07:56:21] Verificando a solicitação...

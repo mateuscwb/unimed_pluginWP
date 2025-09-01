@@ -1,0 +1,18 @@
+[28/07/2024 12:09:23] Verificando a solicitação...
+[28/07/2024 12:09:23] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(17) "Magno Figueiredo "
+  ["cpf"]=>
+  string(15) "095.204.256-83 "
+  ["email"]=>
+  string(21) "magno.fig10@gmail.com"
+  ["placa"]=>
+  string(8) "Puk7b62 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+

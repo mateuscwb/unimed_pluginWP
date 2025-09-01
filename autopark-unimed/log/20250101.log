@@ -1,0 +1,75 @@
+[01/01/2025 10:36:20] Verificando a solicitação...
+[01/01/2025 12:43:09] Verificando a solicitação...
+[01/01/2025 12:43:09] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(16) "Debora Maranhão"
+  ["cpf"]=>
+  string(14) "028.674.056-70"
+  ["email"]=>
+  string(18) "deby76@hotmail.com"
+  ["placa"]=>
+  string(7) "opk6044"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[01/01/2025 12:44:34] Verificando a solicitação...
+[01/01/2025 12:44:34] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(16) "Debora Maranhão"
+  ["cpf"]=>
+  string(14) "028.674.056-70"
+  ["email"]=>
+  string(18) "deby76@hotmail.com"
+  ["placa"]=>
+  string(7) "opk6044"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "4"
+  }
+}
+
+[01/01/2025 01:57:15] Verificando a solicitação...
+[01/01/2025 01:57:15] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(32) "Edson Ricardo Pereira Gonçalves"
+  ["cpf"]=>
+  string(14) "044.566.506-80"
+  ["email"]=>
+  string(27) "taynar.almeida@yahoo.com.br"
+  ["placa"]=>
+  string(7) "SJA6E17"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "7"
+  }
+}
+
+[01/01/2025 06:59:41] Verificando a solicitação...
+[01/01/2025 06:59:41] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(30) "RITA DE CASSIA AGUILAR MENEZES"
+  ["cpf"]=>
+  string(14) "596.589.916-53"
+  ["email"]=>
+  string(22) "ritapediatra@gmail.com"
+  ["placa"]=>
+  string(7) "SIF3D26"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[01/01/2025 09:21:48] Verificando a solicitação...
+[01/01/2025 11:29:09] Verificando a solicitação...

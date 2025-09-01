@@ -1,0 +1,76 @@
+[29/06/2024 12:06:58] Verificando a solicitação...
+[29/06/2024 12:06:58] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(17) "JUNIOR DIAS BRITO"
+  ["cpf"]=>
+  string(11) "01341598616"
+  ["email"]=>
+  string(19) "diasbrito@gmail.com"
+  ["placa"]=>
+  string(8) "OWH-6638"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[29/06/2024 01:19:25] Verificando a solicitação...
+[29/06/2024 01:19:25] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(24) "ERIKA DA CONCEICAO GOMES"
+  ["cpf"]=>
+  string(14) "829.136.416-87"
+  ["email"]=>
+  string(24) "erikagomes1103@gmail.com"
+  ["placa"]=>
+  string(8) "RTA5H90 "
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[29/06/2024 03:22:30] Verificando a solicitação...
+[29/06/2024 06:06:45] Verificando a solicitação...
+[29/06/2024 06:20:42] Verificando a solicitação...
+[29/06/2024 06:20:42] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(26) "Maria Luci Teles de Castro"
+  ["cpf"]=>
+  string(11) "09416927600"
+  ["email"]=>
+  string(20) "luci-art@hotmail.com"
+  ["placa"]=>
+  string(7) "Pwz0068"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "5"
+  }
+}
+
+[29/06/2024 07:39:26] Verificando a solicitação...
+[29/06/2024 08:02:12] Verificando a solicitação...
+[29/06/2024 11:01:07] Verificando a solicitação...
+[29/06/2024 11:01:07] abgsoft-autopark-unimed.php
+array(5) {
+  ["nome"]=>
+  string(31) "Rafael Batista Mineiro de Souza"
+  ["cpf"]=>
+  string(14) "060.646.976-10"
+  ["email"]=>
+  string(25) "rafaelmineiro@outlook.com"
+  ["placa"]=>
+  string(7) "PYO9924"
+  ["unidade"]=>
+  array(1) {
+    [0]=>
+    string(1) "2"
+  }
+}
+
