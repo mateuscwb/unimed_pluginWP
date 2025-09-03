@@ -18,7 +18,7 @@
 
 // If this file is called directly, abort.
 if ( ! defined( 'WPINC' ) ) {
-	die;
+		die;
 }
 
 define( 'PLUGIN_VERSION', '1.0.0' );
@@ -68,15 +68,25 @@ function scripts() {
 }
 
 function logFile($msg){
-	$filename=plugin_dir_path( __FILE__ ) . '/log/'. date("Ymd",time()).'.log';
-	$fd = fopen($filename,"a");
+	$logDir = plugin_dir_path( __FILE__ ) . '/log/';
+	if ( ! file_exists( $logDir ) ) {
+		// Tenta criar o diretório de logs
+		if ( function_exists('wp_mkdir_p') ) { wp_mkdir_p( $logDir ); }
+		else { @mkdir( $logDir, 0755, true ); }
+	}
+	$filename = $logDir . date("Ymd",time()).'.log';
+	$fd = @fopen($filename,"a");
 	$str = "[".date("d/m/Y h:i:s",time())."] ".$msg;
-	fwrite($fd, $str."\n");
-	fclose($fd);
+	if ($fd) {
+		fwrite($fd, $str."\n");
+		fclose($fd);
+	}
 }
 
 function tratar_resposta($items){
-	$items['qrcode'] = $_POST['qrcode'];		
+	if ( isset($_POST['qrcode']) ) {
+		$items['qrcode'] = $_POST['qrcode'];	
+	}
 	return $items;
 }
 
@@ -97,17 +107,33 @@ function tratar_solicitacao( $contact_form, $cancelEmail, $submission ){
 				'branch_id' => is_array($data['unidade']) ? $data['unidade'][0] : $data['unidade']
 			);
 			$response = consume_api($params);
-			if($response['qrcode']){
+			if( is_array($response) && !empty($response['qrcode']) ){
 				//logFile('QRCode library load..');
 				require_once( dirname( __FILE__ ) . '/libs/phpqrcode.inc' );
-				$pathFile = UPLOAD_PATH . 'qrcode-' . uniqid() .'.png';
-				QRcode::png($response['qrcode'], $pathFile, 'h', 3, 5, false );
-				$img = file_get_contents($pathFile); 
-				// Encode the image string data into base64 
-				$img64 = base64_encode($img); 
-				$_POST['qrcode'] = $img64; // DB persist?
-				//$submission->add_uploaded_file('file-682', $pathFile); // contact forms 7 before 5.4
-				add_uploaded_file($submission, 'file-682', $pathFile);
+				// Garante diretório de upload existente
+				if ( ! file_exists( UPLOAD_PATH ) ) {
+					if ( function_exists('wp_mkdir_p') ) { wp_mkdir_p( UPLOAD_PATH ); }
+					else { @mkdir( UPLOAD_PATH, 0755, true ); }
+				}
+				try {
+					$pathFile = UPLOAD_PATH . 'qrcode-' . uniqid() .'.png';
+					QRcode::png($response['qrcode'], $pathFile, 'h', 3, 5, false );
+					$img = file_get_contents($pathFile); 
+					// Encode the image string data into base64 
+					$img64 = base64_encode($img); 
+					$_POST['qrcode'] = $img64; // usado no retorno Ajax
+					// Anexa o arquivo via filtro do CF7 (compatível com versões recentes)
+					add_filter('wpcf7_mail_components', function($components) use ($pathFile){
+						if ( isset($components['attachments']) && is_array($components['attachments']) ) {
+							$components['attachments'][] = $pathFile;
+						} else {
+							$components['attachments'] = array($pathFile);
+						}
+						return $components;
+					});
+				} catch (\Throwable $e) {
+					logFile('Erro ao gerar/anexar QRCode: ' . $e->getMessage());
+				}
 				
 			}
 		}
