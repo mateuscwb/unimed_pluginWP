@@ -141,14 +141,19 @@ function tratar_solicitacao( $contact_form, $cancelEmail, $submission ){
 }
 
 function consume_api($params){
-	$token = get_option( 'abgsoft_autopark_api_token', "AP6nkLLm16BcJNifgpwjMZQbWqZ9RelptlwYZiAbtjOJ1AfAFFKfeu9WlQIv" );
-	$url = "https://sys.autopark.com.br/api/v1/vouchers";
-	$headers = array(
-		'Content-Type' => 'application/json',
-		'X-Requested-With' => 'XMLHttpRequest'
-    	);
+    // Nunca deixe token hardcoded no código. Leia somente das opções do WP.
+    $token = get_option( 'abgsoft_autopark_api_token' );
+    if (empty($token)) {
+        logFile('Token da API ausente. Configure em Configurações → Unimed Promoção.');
+        return new \WP_Error('missing_api_token', 'Token da API não configurado.');
+    }
+    $url = "https://sys.autopark.com.br/api/v1/vouchers";
+    $headers = array(
+        'Content-Type' => 'application/json',
+        'X-Requested-With' => 'XMLHttpRequest'
+        );
 	$params['api_token'] = $token;
-	//$params = http_build_query($params);
+	    //$params = http_build_query($params);
 	$params = json_encode($params, JSON_UNESCAPED_UNICODE);
 	$args = array(
 		'timeout'     => 30,
